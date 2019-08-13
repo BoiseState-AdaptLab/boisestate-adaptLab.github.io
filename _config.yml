@@ -2,5 +2,5 @@ theme: jekyll-theme-minimal
 title: [Boise State ADaPT Lab]
 description: [Application Data flow optimizations with Programming languages and Transformations Lab at Boise State University]
 
-logo: [./images/adapt-logo.png]
+logo: [/assets/img/adapt-logo.png]
 show_downloads: ["false"]
