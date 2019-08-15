@@ -1,14 +1,9 @@
 ---
 layout: default
+title: Home
 ---
 
-# Research  Projects
-
-## [Memory Benchmarking](https://github.com/BoiseState-AdaptLab/AdaptMemBench)
-
-## Automated Code Translation
-
-## [Full Waveform Lidar Data Processing](https://github.com/BoiseState-AdaptLab/adapt-lidar-tools)
+# Home
 
 # [C. Olschanowsky](https://coen.boisestate.edu/catherineolschan/)
 
