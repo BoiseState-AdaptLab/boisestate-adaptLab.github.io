@@ -2,10 +2,13 @@ pages_list_title: Pages
 pages:
 
 - title: Home
-  url: index.md
+  url: index.html
+
+- title: Dr. Olschanowsky
+  url: drolschanowsky.html
 
 - title: Research
-  url: research.md
+  url: research.html
 
 - title: Students
-  url: students.md
+  url: students.html

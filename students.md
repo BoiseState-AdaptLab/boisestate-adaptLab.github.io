@@ -1,8 +1,6 @@
 ---
 title: Students
-position: 3
 layout: default
-title: Students
 ---
 
 ![Group Picture](/assets/img/fixme.jpg)

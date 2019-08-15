@@ -1,6 +1,6 @@
 ---
+title: Research Projects
 layout: default
-title: Students
 ---
 
 # Research  Projects
