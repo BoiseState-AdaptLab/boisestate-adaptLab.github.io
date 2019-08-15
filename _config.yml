@@ -1,8 +1,8 @@
-theme: jekyll-theme-minimal
 title: ADAPT – Data Flow Optimizations Lab at Boise State University
 description: Application Data flow optimizations with Programming languages and Transformations Lab at Boise State University
 logo: /assets/img/adapt-logo.png
 show_downloads: false
+theme: jekyll-theme-minimal
 
 defaults:
   -

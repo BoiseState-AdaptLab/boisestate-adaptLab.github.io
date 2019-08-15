@@ -1,18 +1,14 @@
 ---
-layout: default
 title: Home
 position: 1
+layout: default
 ---
 
 
 # Home
 
-### [Memory Benchmarking](https://github.com/BoiseState-AdaptLab/AdaptMemBench)
+## [Research Projects](/projects.md)
 
-### Automated Code Translation
+## [C. Olschanowsky](https://coen.boisestate.edu/catherineolschan/)
 
-### [Full Waveform Lidar Data Processing](https://github.com/BoiseState-AdaptLab/adapt-lidar-tools)
-
-# [C. Olschanowsky](https://coen.boisestate.edu/catherineolschan/)
-
-# [ADaPT Students](/students.md)
+## [ADaPT Students](/students.md)

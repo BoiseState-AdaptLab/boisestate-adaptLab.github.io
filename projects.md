@@ -1,7 +1,7 @@
 ---
-layout: default
 title: Research Projects
 position: 2
+layout: default
 ---
 
 # Research Projects
