@@ -3,9 +3,9 @@ title: Students
 layout: default
 ---
 
-![Group Picture](/assets/img/fixme.jpg)
+![Group Picture](/assets/img/fixme.jpg)\\
 
-# Students
+# Students\
 
 ## Current Students
 
@@ -85,7 +85,7 @@ This is Floriana's Bio.
 
 ### Colby Allen
 
-This is Colby's Bio.
+This is Colby's Bio.\\
 
 
 ## Alumni
