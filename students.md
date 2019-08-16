@@ -3,17 +3,17 @@ title: Students
 layout: default
 ---
 
-![Group Picture](/assets/img/fixme.jpg)
-<br>
-
 # Students
+
+![Group Picture](/assets/img/fixme.jpg)
+
 <br>
 
 ## Current Students
 
 ![Eddie C. Davis](/assets/img/DSC01368-300x279.jpg)
 
-### Eddie C. Davis
+#### Eddie C. Davis
 
 Eddie received his B.S. in Computer Science from Montana State University in 2005, and M.S. in Computer Science from Boise State University in 2016. He was a senior engineer at Micron Technology until 2018. He has been pursuing a PhD in the Computing program at Boise State since 2016.
 
@@ -35,9 +35,9 @@ Tobi is currently an MSc Computer Science student in Boise State University and 
 
 * * *
 
-![Ravi Shankur](/assets/img/ravi-hs-300x215.png)
+![Ravi Shankar](/assets/img/ravi-hs-300x215.png)
 
-#### Ravi Shankur
+#### Ravi Shankar
 
 Ravi is a senior studying Computer Science with a minor in Applied Mathematics at Boise State University. He is currently a Research assistant for Dr. Olschanowsky and is involved in a Geosciences project with doctoral student Nayani Ilangakoon and Dr. Nancy Glenn building full waveform LiDAR analysis tools. Ravi enjoys reading, traveling, food and music.
 
@@ -87,8 +87,9 @@ This is Floriana's Bio.
 
 #### Colby Allen
 
-This is Colby's Bio.
-<br><br>
+Colby is currently in the Junior Year of his Bachelor's Degree in Computer Science at Boise State University. He is currently working on the ADaPT website under Ravi Shankur.
+
+<br>
 
 ## Alumni
 
