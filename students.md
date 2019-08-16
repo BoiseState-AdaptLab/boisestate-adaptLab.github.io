@@ -83,11 +83,11 @@ This is Floriana's Bio.
 
 * * *
 
-![Colby Allen](/assets/img/fixme.png)
+![Colby Allen](/assets/img/callen.jpg)
 
 #### Colby Allen
 
-Colby is currently in the Junior Year of his Bachelor's Degree in Computer Science at Boise State University. He is currently working on the ADaPT website under Ravi Shankur.
+Colby is currently in the Junior Year of his Bachelor's Degree in Computer Science at Boise State University. He is currently working on the ADaPT website under Ravi Shankar.
 
 <br>
 
