@@ -15,7 +15,7 @@ layout: default
 
 #### Eddie C. Davis
 
-Eddie received his B.S. in Computer Science from Montana State University in 2005, and M.S. in Computer Science from Boise State University in 2016. He was a senior engineer at Micron Technology until 2018. He has been pursuing a PhD in the Computing program at Boise State since 2016.
+Eddie received his B.S. in Computer Science from Montana State University in 2005,  M.S. in Computer Science from Boise State University in 2016 and is currently pursuing a PhD in the Computing program at Boise State University. He is currently working on 
 
 * * *
 
@@ -23,7 +23,7 @@ Eddie received his B.S. in Computer Science from Montana State University in 200
 
 #### Michael Burke
 
-This is Michael's Bio.
+Michael has completed his Bachelor's Of Applied Science at Boise State University and is currently working on a Master's of Computer Science. He is currently involved with the ParFlow project.
 
 * * *
 
@@ -31,7 +31,7 @@ This is Michael's Bio.
 
 #### Tobi Goodness Popoola
 
-Tobi is currently an MSc Computer Science student in Boise State University and a research student in ADaPT lab. He was born in Nigeria and had his Bachelor’s Degree in Computer Engineering from the University of Lagos, Akoka, Nigeria (January 2016).His drive to solve problems led him to focus on High Performance Computing, Compiler Optimization, and Benchmarking. His current research is focused on using the LLVM infrastructure to implement the various compiler optimization research done in the lab.
+Tobi received his Bachelor's in Computer Engineering from the University of Lagos, Akoka, Nigeria and is currently pursuing his PhD in Computer Science at Boise State University. He is currently working on the Chill I/E project.
 
 * * *
 
@@ -39,7 +39,7 @@ Tobi is currently an MSc Computer Science student in Boise State University and 
 
 #### Ravi Shankar
 
-Ravi is a senior studying Computer Science with a minor in Applied Mathematics at Boise State University. He is currently a Research assistant for Dr. Olschanowsky and is involved in a Geosciences project with doctoral student Nayani Ilangakoon and Dr. Nancy Glenn building full waveform LiDAR analysis tools. Ravi enjoys reading, traveling, food and music.
+Ravi completed his Bachelor's in Computer Science with a minor in Applied Mathematics and is currently a Masters student at Boise State University. He is the lead developer of [adapt-lidar-tools](https://github.com/BoiseState-AdaptLab/adapt-lidar-tools) - A Full Waveform Lidar Data processing suite. 
 
 * * *
 
@@ -47,7 +47,7 @@ Ravi is a senior studying Computer Science with a minor in Applied Mathematics a
 
 #### Ahmad Rezaii
 
-This is Ahmad's Bio.
+Ahmad completed his Bachelor's in Computer Science at Boise State University and is currently a Master's student at Boise State University. He is currently involved with the ParFlow project. 
 
 * * *
 
@@ -59,11 +59,11 @@ Shivani received her Bachelor's in Computer Science from UNIVERSITY and is curre
 
 * * *
 
-![Aaron Orenstein](/assets/img/fixme.png)
+![Aaron Orenstein](/assets/img/Aaron.jpg)
 
 #### Aaron Orenstein
 
-This is Aaron's Bio.
+Aaron is a senior at Capital High School and Treasure Valley Math and Science Center. He is currently working on the Lidar Data Processing project.
 
 * * *
 
@@ -105,7 +105,7 @@ Aza graduated from Boise State with a Bachelor's degree in Computer Science in 2
 
 #### Travis Adsitt
 
-Travis Adsitt left the United States Air Force after six years of service to pursue a degree in Computer Science and currently is in his final semester. He joined AdaPT lab in January 2018 and works alongside master’s student Mahesh Lakshminarasimhan focused on benchmarking and memory optimizations in high performance computing. He is interested in all things computing and enjoys mountain climbing, running, cycling and occasionally sports ball.	
+Travis graduated from Boise State with a Bachelor's degree in Computer Science in 2019. He is currently employed at Micron.	
 
 * * *
 
@@ -113,4 +113,4 @@ Travis Adsitt left the United States Air Force after six years of service to pur
 
 #### Mahesh Lakshminarasimhan
 
-Mahesh Lakshminarasimhan is pursuing his master’s degree in Computer Science at Boise State University. His research in AdaPT lab focuses on performance benchmarking and memory optimizations. His research interests lie in high performance computing, parallel programming, distributed computing, and compilers. He received his bachelor’s degree in computer science from Anna University, Chennai, India. Prior to his graduate studies, he worked as a software engineer at the R&D labs of WorksAp Inc. in Japan and India, a startup which develops AI-enabled ERP products.
+Mahesh Lakshminarasimhan received his Bachelor’s in Computer Science from Anna University, Chennai, India, and his Master's in Computer Science at Boise State University. He currently is pursuing his PhD in Computer Science at the University of Utah in Salt Lake City, UT.
