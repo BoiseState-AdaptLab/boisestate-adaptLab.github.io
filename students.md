@@ -11,7 +11,7 @@ layout: default
 
 ## Current Students
 
-![Eddie C. Davis](/assets/img/DSC01368-300x279.jpg)
+![Eddie C. Davis](/assets/img/Eddie.jpg)
 
 #### Eddie C. Davis
 
@@ -27,7 +27,7 @@ This is Michael's Bio.
 
 * * *
 
-![Tobi Goodness Popoola](/assets/img/tobi-picture-300x300.jpg)
+![Tobi Goodness Popoola](/assets/img/Tobi.jpg)
 
 #### Tobi Goodness Popoola
 
@@ -35,7 +35,7 @@ Tobi is currently an MSc Computer Science student in Boise State University and 
 
 * * *
 
-![Ravi Shankar](/assets/img/ravi-hs-300x215.png)
+![Ravi Shankar](/assets/img/Ravi.png)
 
 #### Ravi Shankar
 
@@ -51,11 +51,11 @@ This is Ahmad's Bio.
 
 * * *
 
-![Shivani Singh](/assets/img/fixme.png)
+![Shivani Singh](/assets/img/Shivani.jpg)
 
 #### Shivani Singh
 
-This is Shivani's Bio.
+Shivani received her Bachelor's in Computer Science from UNIVERSITY and is currently working on her Master's in Computer Science. She is currently working on the Polyhedral Dataflow IR project.
 
 * * *
 
@@ -75,15 +75,15 @@ This is Jared's Bio.
 
 * * *
 
-![Floriana Ciaglia](/assets/img/fixme.png)
+![Floriana Ciaglia](/assets/img/Floriana.jpg)
 
 #### Floriana Ciaglia
 
-This is Floriana's Bio.
+Floriana is majoring in Computer Science and minoring in Applied Math here at Boise State. She is currently working on the Lidar Data Processing project.
 
 * * *
 
-![Colby Allen](/assets/img/callen.jpg)
+![Colby Allen](/assets/img/Colby.jpg)
 
 #### Colby Allen
 
@@ -93,7 +93,7 @@ Colby is currently in the Junior Year of his Bachelor's Degree in Computer Scien
 
 ## Alumni
 
-![Aza Tulepbergenov](/assets/img/20180821163328-46566.jpg)
+![Aza Tulepbergenov](/assets/img/Aza.jpg)
 
 #### Aza Tulepbergenov
 
@@ -101,7 +101,7 @@ Aza graduated from Boise State with a Bachelor's degree in Computer Science in 2
 
 * * *
 
-![Travis Adsitt](/assets/img/DSC01370.jpg)
+![Travis Adsitt](/assets/img/Travis.jpg)
 
 #### Travis Adsitt
 
@@ -109,7 +109,7 @@ Travis Adsitt left the United States Air Force after six years of service to pur
 
 * * *
 
-![Mahesh Lakshminarasimhan](/assets/img/Maheshs_Pic-277x300.png)
+![Mahesh Lakshminarasimhan](/assets/img/Mahesh.png)
 
 #### Mahesh Lakshminarasimhan
 

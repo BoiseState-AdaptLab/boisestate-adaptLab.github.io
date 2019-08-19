@@ -3,7 +3,7 @@ title: Dr. Olschanowsky
 layout: default
 ---
 
-![Catherine Olschanowsky](assets/img/Mills-Family-Mills-Family-0078-200x300.jpg)
+![Catherine Olschanowsky](assets/img/Cathie.jpg)
 
 ## Catherine Olschanowsky, Assistant Professor
 
