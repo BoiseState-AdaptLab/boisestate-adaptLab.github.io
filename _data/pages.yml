@@ -5,10 +5,13 @@ pages:
   url: index.html
 
 - title: Dr. Olschanowsky
-  url: catherineolschan.html
+  url: https://coen.boisestate.edu/catherineolschan/
 
 - title: Research
   url: research.html
+
+- title: Publications
+  url: publications.html
 
 - title: Students
   url: students.html

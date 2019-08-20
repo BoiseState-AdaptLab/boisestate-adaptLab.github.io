@@ -1,0 +1,70 @@
+pages_list_title: Publications
+publications:
+
+- title: 
+  url:
+  authors:
+  year:
+  publisher:
+  conference:
+
+- title: 
+  url:
+  authors:
+  year:
+  publisher:
+  conference:
+
+- title: 
+  url:
+  authors:
+  year:
+  publisher:
+  conference:
+
+- title: 
+  url:
+  authors:
+  year:
+  publisher:
+  conference:
+
+- title: 
+  url:
+  authors:
+  year:
+  publisher:
+  conference:
+
+- title: 
+  url:
+  authors:
+  year:
+  publisher:
+  conference:
+
+- title: 
+  url:
+  authors:
+  year:
+  publisher:
+  conference:
+
+- title: 
+  url:
+  authors:
+  year:
+  publisher:
+  conference:
+
+- title: The Sparse Polyhedral Framework - Composing Compiler-Generated Inspector–Executor Code
+  url: https://scholarworks.boisestate.edu/cs_facpubs/183/
+  authors: Michelle Mills Strout, Mary Hall, Catherine Olschanowsky
+  year: "2018"
+  publisher: Proceedings of the IEEE, 106(11)
+
+- title: Abstractions for specifying sparse matrix data transformations
+  url: https://scholar.google.com/scholar?oi=bibs&cluster=5771144369956504053&btnI=1&hl=en
+  authors: Payal Nandy, Mary Hall, Eddie C Davis, Catherine Olschanowsky, Mahdi Soltan Mohammadi, Wei He, Michelle Strout
+  year: "2018"
+  conference: Proc. 8th Int. Workshop Polyhedral Compilation Techn.(IMPACT)
