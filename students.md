@@ -3,9 +3,9 @@ title: Students
 layout: default
 ---
 
-# Students
-
 ![Group Picture](/assets/img/fixme.jpg)
+
+# Students
 
 <br>
 
@@ -43,7 +43,7 @@ Ravi completed his Bachelor's in Computer Science with a minor in Applied Mathem
 
 * * *
 
-![Ahmad Rezaii](/assets/img/fixme.png)
+![Ahmad Rezaii](/assets/img/Ahmad.png)
 
 #### Ahmad Rezaii
 
@@ -67,11 +67,11 @@ Aaron is a senior at Capital High School and Treasure Valley Math and Science Ce
 
 * * *
 
-![Jared White](/assets/img/fixme.png)
+![Jared White](/assets/img/Jared.jpg)
 
 #### Jared White
 
-This is Jared's Bio.
+Jared is currently in the Junior year of his Bachelor's Degree in Computer Science at Boise State University. He has worked on the Parflow project under Michael Burke.
 
 * * *
 
@@ -87,7 +87,7 @@ Floriana is majoring in Computer Science and minoring in Applied Math here at Bo
 
 #### Colby Allen
 
-Colby is currently in the Junior Year of his Bachelor's Degree in Computer Science at Boise State University. He is currently working on the ADaPT website under Ravi Shankar.
+Colby is currently in the Junior Year of his Bachelor's Degree in Computer Science at Boise State University. He is currently working on the ADAPT website under Ravi Shankar.
 
 <br>
 
