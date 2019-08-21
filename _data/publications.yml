@@ -1,67 +1,58 @@
 pages_list_title: Publications
 publications:
 
-- title: 
-  url:
-  authors:
-  year:
-  publisher:
-  conference:
+- title: Sparse computation data dependence simplification for efficient compiler-generated inspectors
+  url: https://scholar.google.com/scholar?oi=bibs&cluster=16814361439273644262&btnI=1&hl=en
+  authors: Mahdi Soltan Mohammadi, Tomofumi Yuki, Kazem Cheshmi, Eddie C Davis, Mary Hall, Maryam Mehri Dehnavi, Payal Nandy, Catherine Olschanowsky, Anand Venkat, Michelle Mills Strout
+  year: 2019/6/8
+  publisher: ACM
+  conference: Proceedings of the 40th ACM SIGPLAN Conference on Programming Language Design and Implementation
 
-- title: 
-  url:
-  authors:
-  year:
-  publisher:
-  conference:
+- title: A Test Suite to Support the Optimization of Scientific Applications
+  url: https://scholar.google.com/scholar?oi=bibs&cluster=7912221586246768095&btnI=1&hl=en
+  authors: Jared White, Tobi Popoola, Catherine Olschanowsky
+  year: "2019"
+  conference: 2019 Undergraduate Research and Scholarship Conference
 
-- title: 
-  url:
-  authors:
-  year:
-  publisher:
-  conference:
+- title: AdaptLidarTools - Full Waveform LiDAR Data Analysis Tools
+  url: https://scholar.google.com/scholar?oi=bibs&cluster=6046976148766320801&btnI=1&hl=en
+  authors: Ravi Shankar, Aaron Orenstein, Floriana Ciaglia, Catherine Olschanowsky
+  year: "2019"
+  conference: 2019 Undergraduate Research and Scholarship Conference
 
-- title: 
-  url:
-  authors:
-  year:
-  publisher:
-  conference:
+- title: Using the loop chain abstraction to schedule across loops in existing code
+  url: https://scholar.google.com/scholar?oi=bibs&cluster=4744645206492404747&btnI=1&hl=en
+  authors: Ian J Bertolacci, Michelle Mills Strout, Jordan Riley, Stephen MJ Guzik, Eddie C Davis, Catherine Olschanowsky
+  year: "2019"
+  publisher: Inderscience Publishers (IEL)
+  journal: International Journal of High Performance Computing and Networking
 
-- title: 
-  url:
-  authors:
-  year:
-  publisher:
-  conference:
+- title: AdaptMemBench - Application-Specific MemorySubsystem Benchmarking
+  url: https://scholar.google.com/scholar?oi=bibs&cluster=6899386820486019597&btnI=1&hl=en
+  authors: Mahesh Lakshminarasimhan, Catherine Olschanowsky
+  year: 2018/12/19
+  journal: arXiv preprint arXiv:1812.07778
 
-- title: 
-  url:
-  authors:
-  year:
-  publisher:
-  conference:
-
-- title: 
-  url:
-  authors:
-  year:
-  publisher:
-  conference:
-
-- title: 
-  url:
-  authors:
-  year:
-  publisher:
-  conference:
+- title: Extending OpenMP to Facilitate Loop Optimization
+  url: https://scholar.google.com/scholar?oi=bibs&cluster=15882326975257011694&btnI=1&hl=en
+  authors: Ian Bertolacci, Michelle Mills Strout, Bronis R de Supinski, Thomas RW Scogland, Eddie C Davis, Catherine Olschanowsky
+  year: 2018/9/26
+  publisher: Springer, Cham
+  conference: International Workshop on OpenMP
 
 - title: The Sparse Polyhedral Framework - Composing Compiler-Generated Inspector–Executor Code
   url: https://scholarworks.boisestate.edu/cs_facpubs/183/
   authors: Michelle Mills Strout, Mary Hall, Catherine Olschanowsky
   year: "2018"
-  publisher: Proceedings of the IEEE, 106(11)
+  publisher: IEEE
+  conference: Proceedings of the IEEE, 106(11)
+
+- title: Transforming loop chains via macro dataflow graphs
+  url: https://scholar.google.com/scholar?oi=bibs&cluster=520668114995003763&btnI=1&hl=en
+  authors: Eddie C Davis, Michelle Mills Strout, Catherine Olschanowsky
+  year: "2018"
+  publisher: ACM
+  conference: Proceedings of the 2018 International Symposium on Code Generation and Optimization
 
 - title: Abstractions for specifying sparse matrix data transformations
   url: https://scholar.google.com/scholar?oi=bibs&cluster=5771144369956504053&btnI=1&hl=en
