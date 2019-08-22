@@ -1,0 +1,13 @@
+# example slider
+- selector: recent_updates
+  captions: true
+  images:
+    - src: /assets/img/carousel/slide1.jpg
+      alt: Framework will Drive Innovation in Hydrologic Simulation Platforms
+      href: https://coen.boisestate.edu/cs/2019/01/30/researchers-awarded-grant-to-advance-water-modeling-across-continent/
+    - src: /assets/img/carousel/slide2.jpg
+      alt: Coding Their Way Through the Glass Ceiling
+      href: http://coen.boisestate.edu/cs/2019/05/06/coding-their-way-through-the-glass-ceiling/
+  settings:
+    height: "'auto'"
+    effect: "'fade'"

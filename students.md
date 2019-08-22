@@ -15,7 +15,7 @@ layout: default
 
 #### Eddie C. Davis
 
-Eddie received his B.S. in Computer Science from Montana State University in 2005,  M.S. in Computer Science from Boise State University in 2016 and is currently pursuing a PhD in the Computing program at Boise State University. He is currently working on 
+Eddie received his B.S. in Computer Science from Montana State University in 2005,  M.S. in Computer Science from Boise State University in 2016 and is currently pursuing a PhD in the Computing program at Boise State University. He is currently working on the Polyhedral Dataflow IR project.
 
 * * *
 
@@ -39,7 +39,7 @@ Tobi received his Bachelor's in Computer Engineering from the University of Lago
 
 #### Ravi Shankar
 
-Ravi completed his Bachelor's in Computer Science with a minor in Applied Mathematics and is currently a Masters student at Boise State University. He is the lead developer of [adapt-lidar-tools](https://github.com/BoiseState-AdaptLab/adapt-lidar-tools) - A Full Waveform Lidar Data processing suite. 
+Ravi completed his Bachelor's in Computer Science with a minor in Applied Mathematics and is currently a Masters student at Boise State University. He is the lead developer of [adapt-lidar-tools](https://github.com/BoiseState-AdaptLab/adapt-lidar-tools) - A Full Waveform Lidar Data processing suite.
 
 * * *
 
@@ -47,7 +47,7 @@ Ravi completed his Bachelor's in Computer Science with a minor in Applied Mathem
 
 #### Ahmad Rezaii
 
-Ahmad completed his Bachelor's in Computer Science at Boise State University and is currently a Master's student at Boise State University. He is currently involved with the ParFlow project. 
+Ahmad completed his Bachelor's in Computer Science at Boise State University and is currently a Master's student at Boise State University. He is currently involved with the ParFlow project.
 
 * * *
 
@@ -55,7 +55,7 @@ Ahmad completed his Bachelor's in Computer Science at Boise State University and
 
 #### Shivani Singh
 
-Shivani received her Bachelor's in Computer Science from UNIVERSITY and is currently working on her Master's in Computer Science. She is currently working on the Polyhedral Dataflow IR project.
+Shivani received her Bachelor's in Computer Science from Rajasthan Technical University and is currently working on her Master's in Computer Science. She is currently working on the Polyhedral Dataflow IR project.
 
 * * *
 
@@ -105,7 +105,7 @@ Aza graduated from Boise State with a Bachelor's degree in Computer Science in 2
 
 #### Travis Adsitt
 
-Travis graduated from Boise State with a Bachelor's degree in Computer Science in 2019. He is currently employed at Micron.	
+Travis graduated from Boise State with a Bachelor's degree in Computer Science in 2019. He is currently employed at Micron.
 
 * * *
 

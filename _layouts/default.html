@@ -10,6 +10,7 @@
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
+    {% include slider_styles.html %}
   </head>
   <body>
     <div class="wrapper">
@@ -49,6 +50,7 @@
         <p><small><a href="tel:2084265730">(208) 426-5730</a> | Computer Science | CCP 253</small></p>
       </footer>
     </div>
+
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
     {% if site.google_analytics %}
     <script>
@@ -60,5 +62,6 @@
       ga('send', 'pageview');
     </script>
     {% endif %}
+    {% include slider_scripts.html %}
   </body>
 </html>
