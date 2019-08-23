@@ -11,6 +11,9 @@
     - src: /assets/img/carousel/slide2.jpg
       alt: Coding Their Way Through the Glass Ceiling
       href: https://coen.boisestate.edu/cs/2019/05/06/coding-their-way-through-the-glass-ceiling/
+    - src: /assets/img/carousel/slide4.jpg
+      alt: Faculty Team Competing to Set National Research Agenda - You Can Help
+      href: https://www.boisestate.edu/news/2019/06/03/faculty-team-competing-to-set-national-research-agenda-you-can-help/
   settings:
     height: "'auto'"
     effect: "'fade'"
