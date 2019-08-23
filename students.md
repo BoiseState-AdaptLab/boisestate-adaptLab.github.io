@@ -3,9 +3,11 @@ title: Students
 layout: default
 ---
 
-![Group Picture](/assets/img/fixme.jpg)
+![Group Picture](/assets/img/group/group2.jpg)
 
 # Students
+
+### [View All Adapt Group Photos](group.md)
 
 <br>
 
@@ -19,7 +21,7 @@ Eddie received his B.S. in Computer Science from Montana State University in 200
 
 * * *
 
-![Michael Burke](/assets/img/fixme.png)
+![Michael Burke](/assets/img/Michael.jpg)
 
 #### Michael Burke
 
