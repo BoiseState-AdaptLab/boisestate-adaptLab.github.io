@@ -8,10 +8,14 @@ layout: default
 <br>
 
 {% for item in site.data.publications.publications %}
-   
-## [{{ item.title }}]({{ item.url }})
 
-{{ item.authors }}. {{ item.year }}. {% if item.journal %}{{ item.journal }}. {% endif %} {% if item.conference %}{{ item.conference }}. {% endif %} {% if item.publisher %}{{ item.publisher }}. {% endif %}
+{% if item.url %}
+## [{{ item.title }}]({{ item.url }})
+{% else %}
+## {{ item.title }}
+{% endif %}
+
+{{ item.authors }}. {% if item.year %}{{ item.year }}. {% endif %} {% if item.journal %}{{ item.journal }}. {% endif %} {% if item.conference %}{{ item.conference }}. {% endif %} {% if item.publisher %}{{ item.publisher }}. {% endif %}
 
 <br>
 

@@ -1,24 +1,16 @@
 pages_list_title: Publications
 publications:
 
+- title: AdaptLidarTools - A Full-Waveform Lidar Processing Suite
+  authors: Ravi Shankar, Nayani Ilangakoon, Aaron Orenstein, Floriana Ciaglaia, Nancy F. Glenn, Catherine Olschanowsky
+  conference: Pending publication eScience International Conference 2019
+
 - title: Sparse computation data dependence simplification for efficient compiler-generated inspectors
   url: https://scholar.google.com/scholar?oi=bibs&cluster=16814361439273644262&btnI=1&hl=en
   authors: Mahdi Soltan Mohammadi, Tomofumi Yuki, Kazem Cheshmi, Eddie C Davis, Mary Hall, Maryam Mehri Dehnavi, Payal Nandy, Catherine Olschanowsky, Anand Venkat, Michelle Mills Strout
   year: 2019/6/8
   publisher: ACM
   conference: Proceedings of the 40th ACM SIGPLAN Conference on Programming Language Design and Implementation
-
-- title: A Test Suite to Support the Optimization of Scientific Applications
-  url: https://scholar.google.com/scholar?oi=bibs&cluster=7912221586246768095&btnI=1&hl=en
-  authors: Jared White, Tobi Popoola, Catherine Olschanowsky
-  year: "2019"
-  conference: 2019 Undergraduate Research and Scholarship Conference
-
-- title: AdaptLidarTools - Full Waveform LiDAR Data Analysis Tools
-  url: https://scholar.google.com/scholar?oi=bibs&cluster=6046976148766320801&btnI=1&hl=en
-  authors: Ravi Shankar, Aaron Orenstein, Floriana Ciaglia, Catherine Olschanowsky
-  year: "2019"
-  conference: 2019 Undergraduate Research and Scholarship Conference
 
 - title: Using the loop chain abstraction to schedule across loops in existing code
   url: https://scholar.google.com/scholar?oi=bibs&cluster=4744645206492404747&btnI=1&hl=en
