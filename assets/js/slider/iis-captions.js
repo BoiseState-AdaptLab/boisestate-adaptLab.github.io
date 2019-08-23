@@ -2,7 +2,7 @@
  * Ideal Image Slider: Captions Extension v1.0.1
  *
  * By Gilbert Pellegrom
- * http://gilbert.pellegrom.me
+ * https://gilbert.pellegrom.me
  *
  * Copyright (C) 2014 Dev7studios
  * https://raw.githubusercontent.com/gilbitron/Ideal-Image-Slider/master/LICENSE
