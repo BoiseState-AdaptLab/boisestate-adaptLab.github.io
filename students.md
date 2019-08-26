@@ -69,6 +69,14 @@ Aaron is a senior at Capital High School and Treasure Valley Math and Science Ce
 
 * * *
 
+![Spencer Fleming](/assets/img/Spencer.jpg)
+
+#### Spencer Fleming
+
+Spencer is currently in his Senior year of his Bachelor's Degree in Computer Science with a minor in Applied Mathematics. He is currently working on the Lidar Data Processing project.
+
+* * *
+
 ![Jared White](/assets/img/Jared.jpg)
 
 #### Jared White
