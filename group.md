@@ -19,4 +19,4 @@ From left to right: Catherine Olschanowsky, Ravi Shankar, Mahesh Lakshminarasimh
 
 ### September 2018
 
-From left to right: Eddie C. Davis, CITATION NEEDED, Michael Burke, Travis Adsitt, CITATION NEEDED, Tobi Goodness Popoola, Catherine Olschanowsky, Ravi Shankar
+From left to right: Eddie C. Davis, Tyler Bevan, Michael Burke, Travis Adsitt, Mahesh Lakshminarasimhan, Tobi Goodness Popoola, Catherine Olschanowsky, Ravi Shankar
