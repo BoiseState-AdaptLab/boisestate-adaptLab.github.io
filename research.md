@@ -3,7 +3,7 @@ title: Research Projects
 layout: default
 ---
 
-# Research  Projects
+# Research Projects
 
 <br>
 
