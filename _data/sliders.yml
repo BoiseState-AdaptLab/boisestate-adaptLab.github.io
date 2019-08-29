@@ -11,13 +11,16 @@
     - src: /assets/img/carousel/slide2.jpg
       alt: Coding Their Way Through the Glass Ceiling
       href: https://coen.boisestate.edu/cs/2019/05/06/coding-their-way-through-the-glass-ceiling/
+    - src: /assets/img/carousel/slide6.jpg
+      alt: Pouring One Out for Charity with a Smart Tap Handle
+      href: https://coen.boisestate.edu/cs/2019/05/23/pouring-one-out-for-charity/
     - src: /assets/img/carousel/slide5.jpg
       alt: Seven Faculty to Serve as Campus Leads for New Energy Studies Strategy
       href: https://www.boisestate.edu/news/2019/08/19/seven-faculty-to-serve-as-campus-leads-for-new-energy-studies-strategy/
     - src: /assets/img/carousel/slide4.jpg
       alt: Faculty Team Competing to Set National Research Agenda - You Can Help
       href: https://www.boisestate.edu/news/2019/06/03/faculty-team-competing-to-set-national-research-agenda-you-can-help/
-    - src: /assets/img/carousel/slide6.jpg
+    - src: /assets/img/carousel/slide7.jpg
   settings:
     height: "'auto'"
     effect: "'fade'"
