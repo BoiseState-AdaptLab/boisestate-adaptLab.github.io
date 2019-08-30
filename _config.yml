@@ -3,3 +3,5 @@ description: Application Data flow optimizations with Programming languages and 
 logo: /assets/img/adapt-logo.png
 show_downloads: false
 theme: jekyll-theme-minimal
+plugins:
+  - jekyll-seo-tag
