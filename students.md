@@ -3,6 +3,14 @@ title: Students
 layout: default
 ---
 
+[comment]: <> (Adding Students to the List.)
+[comment]: <> (1. Make sure images of students are at a 300px by 300px resolution for consistency.)
+[comment]: <> (2. Refer to Dr. Olschanowsky for the hierarchy of students if confused.)
+[comment]: <> (3. The template for student bios is as follows.)
+[comment]: <> ([Student Name] has [completed education] and is working on [current education]. He/She is currently working on [Adapt Project]. If you have any questions regarding this, please refer to previous examples.)
+[comment]: <> (4. Keep Alumni profiles short and sweet.)
+
+
 ![Group Picture](/assets/img/group/group2.jpg)
 
 # Students
@@ -25,7 +33,7 @@ Eddie received his B.S. in Computer Science from Montana State University in 200
 
 #### Michael Burke
 
-Michael has completed his Bachelor's Of Applied Science at Boise State University and is currently working on a Master's of Computer Science. He is currently involved with the ParFlow project.
+Michael has completed his Bachelor's in Applied Science at Boise State University and is currently working on a Master's in Computer Science. He is currently involved with the ParFlow project.
 
 * * *
 

@@ -3,6 +3,9 @@ title: Research Projects
 layout: default
 ---
 
+[comment]: <> (Adding Research Projects to the List.)
+[comment]: <> (1. Link each Project to Their GitHub Repo. [HTTPS only])
+
 # Research Projects
 
 <br>
