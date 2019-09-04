@@ -5,6 +5,7 @@ layout: default
 
 [comment]: <> (Adding Research Projects to the List.)
 [comment]: <> (1. Link each Project to Their GitHub Repo. [HTTPS only])
+[comment]: <> (2. When in doubt, refer to Dr. Olschanowsky for correct order.)
 
 # Research Projects
 
