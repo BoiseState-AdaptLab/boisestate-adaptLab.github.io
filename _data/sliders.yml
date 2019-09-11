@@ -1,4 +1,3 @@
-# example slider
 - selector: recent_updates
   captions: true
   images:
@@ -21,6 +20,25 @@
       alt: Faculty Team Competing to Set National Research Agenda - You Can Help
       href: https://www.boisestate.edu/news/2019/06/03/faculty-team-competing-to-set-national-research-agenda-you-can-help/
     - src: /assets/img/carousel/slide7.jpg
+  settings:
+    height: "'auto'"
+    effect: "'fade'"
+
+- selector: student_photos
+  captions: true
+  images:
+    - src: /assets/img/studentcarousel/coen2019.jpg
+      alt: "2019 Idaho Conference on Undergraduate Research"
+    - src: /assets/img/studentcarousel/spring2019.jpg
+      alt: Best Learning Poster at COEN Spring 2019
+    - src: /assets/img/studentcarousel/rafting2019.jpg
+      alt: Summer 2019 Adapt Rafting Trip
+    - src: /assets/img/studentcarousel/graduation2019.jpg
+      alt: Graduation 2019
+    - src: /assets/img/studentcarousel/group1.jpg
+      alt: May 2018 Group Photo
+    - src: /assets/img/studentcarousel/group2.jpg
+      alt: September 2018 Group Photo
   settings:
     height: "'auto'"
     effect: "'fade'"

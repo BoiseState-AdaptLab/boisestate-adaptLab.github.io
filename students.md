@@ -1,6 +1,8 @@
 ---
 title: Students
 layout: default
+image_sliders:
+  - student_photos
 ---
 
 [comment]: <> (Adding Students to the List.)
@@ -9,9 +11,13 @@ layout: default
 [comment]: <> (3. The template for student bios is as follows.)
 [comment]: <> ([Student Name] has [completed education] and is working on [current education]. He/She is currently working on [Adapt Project]. If you have any questions regarding this, please refer to previous examples.)
 [comment]: <> (4. Keep Alumni profiles short and sweet.)
+[comment]: <> (For documentation on how to edit the student slider, please refer to the documentation on index.md)
+[comment]: <> (The difference is s=the slider is titled differently in the sliders.yml file as well as all imgages being stored in assets/img/studentcarousel)
 
 
-![Group Picture](/assets/img/group/group2.jpg)
+{% include slider.html selector="student_photos" %}
+
+<br>
 
 # Students
 
