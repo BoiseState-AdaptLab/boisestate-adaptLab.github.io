@@ -18,3 +18,5 @@ layout: default
 ## [Full Waveform Lidar Data Processing](https://github.com/BoiseState-AdaptLab/adapt-lidar-tools)
 
 ## [Polyhedral Dataflow IR](https://github.com/CompOpt4Apps/VariationsOnATheme)
+
+## [Polyhedral Dataflow IR Compiler Frontend](https://github.com/BoiseState-AdaptLab/PDFG-IR_C_frontend)
