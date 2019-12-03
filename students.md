@@ -43,7 +43,7 @@ Michael has completed his Bachelor's in Applied Science at Boise State Universit
 
 * * *
 
-![Tobi Goodness Popoola](/assets/img/Tobi.jpg)
+![Tobi Goodness Popoola](/assets/img/tobi-2-1-.jpg)
 
 #### Tobi Goodness Popoola
 
