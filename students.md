@@ -105,14 +105,6 @@ Jared is currently in the Junior year of his Bachelor's Degree in Computer Scien
 
 Floriana is majoring in Computer Science and minoring in Applied Math here at Boise State. She is currently working on the Lidar Data Processing project.
 
-* * *
-
-![Colby Allen](/assets/img/Colby.jpg)
-
-#### Colby Allen
-
-Colby is currently in the Junior Year of his Bachelor's Degree in Computer Science at Boise State University. He is currently working on the ADAPT website under Ravi Shankar.
-
 <br>
 
 ## Alumni
