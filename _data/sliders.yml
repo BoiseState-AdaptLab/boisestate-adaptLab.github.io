@@ -1,7 +1,7 @@
 - selector: recent_updates
   captions: true
   images:
-    - src: /assets/img/carousel/slide1.png
+    - src: /assets/img/carousel/slide1.jpg
       alt: Framework will Drive Innovation in Hydrologic Simulation Platforms
       href: https://coen.boisestate.edu/cs/2019/01/30/researchers-awarded-grant-to-advance-water-modeling-across-continent/
     - src: /assets/img/carousel/slide3.jpg
@@ -27,7 +27,7 @@
 - selector: student_photos
   captions: true
   images:
-    - src: /assets/img/studentcarousel/michael-thesis.jpg
+    - src: /assets/img/studentcarousel/michael-thesis.png
       alt: March 2019 Post Michael's thesis defense
     - src: /assets/img/studentcarousel/postEdDef2019.jpg
       alt: Dec 2019 Post Eddie's dissertation defense
