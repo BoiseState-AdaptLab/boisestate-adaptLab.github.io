@@ -2,8 +2,10 @@ pages_list_title: Publications
 publications:
 
 - title: AdaptLidarTools - A Full-Waveform Lidar Processing Suite
+  url: https://ieeexplore.ieee.org/document/9041833
   authors: Ravi Shankar, Nayani Ilangakoon, Aaron Orenstein, Floriana Ciaglaia, Nancy F. Glenn, Catherine Olschanowsky
-  conference: Pending publication eScience International Conference 2019
+  year: 2019
+  conference: 2019 15th International Conference on eScience (eScience)
 
 - title: Sparse computation data dependence simplification for efficient compiler-generated inspectors
   url: https://scholar.google.com/scholar?oi=bibs&cluster=16814361439273644262&btnI=1&hl=en
