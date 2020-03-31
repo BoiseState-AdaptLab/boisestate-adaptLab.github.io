@@ -27,18 +27,20 @@
 - selector: student_photos
   captions: true
   images:
+    - src: /assets/img/studentcarousel/michael-thesis.jpg
+      alt: March 2019 Post Michael's thesis defense
     - src: /assets/img/studentcarousel/postEdDef2019.jpg
       alt: Dec 2019 Post Eddie's dissertation defense
     - src: /assets/img/studentcarousel/eScience2019.png
       alt: Sept 2019 eScience conference      
     - src: /assets/img/studentcarousel/coen2019.jpg
-      alt: Best Service Learning Poster at COEN Spring 2019
+      alt: Spring 2019 Best Service Learning Poster from COEN 
     - src: /assets/img/studentcarousel/spring2019.jpg
-      alt: "2019 Idaho Conference on Undergraduate Research"
+      alt: 2019 Idaho Conference on Undergraduate Research
     - src: /assets/img/studentcarousel/rafting2019.jpg
       alt: Summer 2019 Adapt Rafting Trip
     - src: /assets/img/studentcarousel/graduation2019.jpg
-      alt: Graduation 2019
+      alt: May 2019 Graduation
     - src: /assets/img/studentcarousel/group1.jpg
       alt: May 2018 Group Photo
     - src: /assets/img/studentcarousel/group2.jpg
