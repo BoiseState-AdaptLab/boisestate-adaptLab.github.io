@@ -31,7 +31,7 @@ image_sliders:
 
 #### Eddie C. Davis
 
-Eddie received his B.S. in Computer Science from Montana State University in 2005,  M.S. in Computer Science from Boise State University in 2016 and is currently pursuing a PhD in the Computing program at Boise State University. He is currently working on the Polyhedral Dataflow IR project.
+Eddie received his B.S. in Computer Science from Montana State University in 2005,  M.S. in Computer Science from Boise State University in 2016 and PhD in the Computing program at Boise State University in 2019. He is currently working in Seattle.
 
 * * *
 
@@ -55,7 +55,7 @@ Tobi received his Bachelor's in Computer Engineering from the University of Lago
 
 #### Ravi Shankar
 
-Ravi completed his Bachelor's in Computer Science with a minor in Applied Mathematics and is currently a Masters student at Boise State University. He is the lead developer of [adapt-lidar-tools](https://github.com/BoiseState-AdaptLab/adapt-lidar-tools) - A Full Waveform Lidar Data processing suite.
+Ravi completed his Bachelor's in Computer Science with a minor in Applied Mathematics and is currently a Masters student at Boise State University. He has worked on the Lidar Data Processing project and is currently working on the IonoSeis project.
 
 * * *
 
@@ -63,7 +63,7 @@ Ravi completed his Bachelor's in Computer Science with a minor in Applied Mathem
 
 #### Ahmad Rezaii
 
-Ahmad completed his Bachelor's in Computer Science at Boise State University and is currently a Master's student at Boise State University. He is currently involved with the ParFlow project.
+Ahmad completed his Bachelor's in Computer Science at Boise State University and is currently pursuing a PhD in the Computing program at Boise State University. He is currently involved with the ParFlow project.
 
 * * *
 
