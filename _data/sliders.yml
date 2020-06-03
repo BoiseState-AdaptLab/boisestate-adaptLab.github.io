@@ -3,16 +3,16 @@
   images:
     - src: /assets/img/carousel/slide1.jpg
       alt: Framework will Drive Innovation in Hydrologic Simulation Platforms
-      href: https://coen.boisestate.edu/cs/2019/01/30/researchers-awarded-grant-to-advance-water-modeling-across-continent/
+      href: https://www.boisestate.edu/coen-cs/2019/01/30/researchers-awarded-grant-to-advance-water-modeling-across-continent/
     - src: /assets/img/carousel/slide3.jpg
       alt: Spotlight on Research Collaboration to Advance Study of Idaho’s Drylands, Future NASA Studies
       href: https://www.boisestate.edu/rcs/2019/08/19/research-computing-spotlight-bcal-cs/
     - src: /assets/img/carousel/slide2.jpg
       alt: Coding Their Way Through the Glass Ceiling
-      href: https://coen.boisestate.edu/cs/2019/05/06/coding-their-way-through-the-glass-ceiling/
+      href: https://www.boisestate.edu/coen-cs/2019/05/06/coding-their-way-through-the-glass-ceiling/
     - src: /assets/img/carousel/slide6.jpg
       alt: Pouring One Out for Charity with a Smart Tap Handle
-      href: https://coen.boisestate.edu/cs/2019/05/23/pouring-one-out-for-charity/
+      href: https://www.boisestate.edu/news/2019/05/16/pouring-one-out-for-charity/
     - src: /assets/img/carousel/slide5.jpg
       alt: Seven Faculty to Serve as Campus Leads for New Energy Studies Strategy
       href: https://www.boisestate.edu/news/2019/08/19/seven-faculty-to-serve-as-campus-leads-for-new-energy-studies-strategy/
@@ -20,6 +20,8 @@
       alt: Faculty Team Competing to Set National Research Agenda - You Can Help
       href: https://www.boisestate.edu/news/2019/06/03/faculty-team-competing-to-set-national-research-agenda-you-can-help/
     - src: /assets/img/carousel/slide7.jpg
+      alt: Tobi Popoola Awarded Presidential Award in the 2020 Annual Idaho Entrepreneur Challenge   
+      href: https://www.boisestate.edu/computing/2020/04/10/tobi-popoola-awarded-presidential-award-in-the-2020-annual-idaho-entrepreneur-challenge
   settings:
     height: "'auto'"
     effect: "'fade'"
