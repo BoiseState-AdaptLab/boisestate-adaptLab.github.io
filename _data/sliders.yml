@@ -25,7 +25,7 @@
     - src: /assets/img/carousel/slide8.jpg
       alt: Cathie Olschanowsky wins CAREER award to improve performance of scientific applications
       href: https://www.boisestate.edu/coen-cs/2020/04/27/cathie-olschanowsky-wins-career-award-to-improve-performance-of-scientific-applications/
-	
+
   settings:
     height: "'auto'"
     effect: "'fade'"
