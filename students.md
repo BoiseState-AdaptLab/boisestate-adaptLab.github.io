@@ -39,7 +39,7 @@ Tobi received his Bachelor's in Computer Engineering from the University of Lago
 
 #### Ahmad Rezaii
 
-Ahmad completed his Bachelor's in Computer Science at Boise State University and is currently pursuing a PhD in the Computing program at Boise State University. He is currently involved with the ParFlow project.
+Ahmad received his Bachelor's in Computer Science from Boise State University in 2019 and is pursuing a PhD in the Computing program at Boise State University. He is currently involved with the ParFlow project.
 
 * * *
 
