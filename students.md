@@ -85,5 +85,5 @@ Floriana is majoring in Computer Science and minoring in Applied Math here at Bo
 
 #### Aaron Orenstein
 
-Aaron is a senior at Capital High School and Treasure Valley Math and Science Center. He is currently working on the Lidar Data Processing project.
+Aaron recently graduated from Capital High School and Treasure Valley Math and Science Center. He has worked on the Lidar Data Processing project and Ionoseis project and is currently working on the CHiLL-I/E project.
 
