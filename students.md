@@ -12,42 +12,43 @@ image_sliders:
 [comment]: <> ([Student Name] has [completed education] and is working on [current education]. He/She is currently working on [Adapt Project]. If you have any questions regarding this, please refer to previous examples.)
 [comment]: <> (4. Keep Alumni profiles short and sweet.)
 [comment]: <> (For documentation on how to edit the student slider, please refer to the documentation on index.md)
-[comment]: <> (The difference is s=the slider is titled differently in the sliders.yml file as well as all imgages being stored in assets/img/studentcarousel)
+[comment]: <> (The difference is the slider is titled differently in the sliders.yml file as well as all imgages being stored in assets/img/studentcarousel)
 
 
 {% include slider.html selector="student_photos" %}
 
 <br>
 
-# Students
+# Current Students
 
 ### [View All Adapt Group Photos](group.md)
 
 <br>
 
-## Current Students
-
-![Eddie C. Davis](/assets/img/Eddie.jpg)
-
-#### Eddie C. Davis
-
-Eddie received his B.S. in Computer Science from Montana State University in 2005,  M.S. in Computer Science from Boise State University in 2016 and PhD in the Computing program at Boise State University in 2019. He is currently working in Seattle.
-
-* * *
-
-![Michael Burke](/assets/img/Michael.jpg)
-
-#### Michael Burke
-
-Michael has completed his Bachelor's in Applied Science at Boise State University and is currently working on a Master's in Computer Science. He is currently involved with the ParFlow project.
-
-* * *
+## Graduate Students
 
 ![Tobi Goodness Popoola](/assets/img/tobi-2-1-.jpg)
 
 #### Tobi Goodness Popoola
 
 Tobi received his Bachelor's in Computer Engineering from the University of Lagos, Akoka, Nigeria and is currently pursuing his PhD in Computer Science at Boise State University. He is currently working on the Chill I/E project.
+
+* * *
+
+![Ahmad Rezaii](/assets/img/Ahmad.png)
+
+#### Ahmad Rezaii
+
+Ahmad received his Bachelor's in Computer Science from Boise State University in 2019 and is pursuing a PhD in the Computing program at Boise State University. He is currently involved with the ParFlow project.
+
+* * *
+
+
+![Shivani Singh](/assets/img/Shivani.jpg)
+
+#### Shivani Singh
+
+Shivani received her Bachelor's in Computer Science from Rajasthan Technical University and is currently working on her Master's in Computer Science. She is currently working on the Polyhedral Dataflow IR project.
 
 * * *
 
@@ -58,38 +59,9 @@ Tobi received his Bachelor's in Computer Engineering from the University of Lago
 Ravi completed his Bachelor's in Computer Science with a minor in Applied Mathematics and is currently a Masters student at Boise State University. He has worked on the Lidar Data Processing project and is currently working on the IonoSeis project.
 
 * * *
+<br>
 
-![Ahmad Rezaii](/assets/img/Ahmad.png)
-
-#### Ahmad Rezaii
-
-Ahmad completed his Bachelor's in Computer Science at Boise State University and is currently pursuing a PhD in the Computing program at Boise State University. He is currently involved with the ParFlow project.
-
-* * *
-
-![Shivani Singh](/assets/img/Shivani.jpg)
-
-#### Shivani Singh
-
-Shivani received her Bachelor's in Computer Science from Rajasthan Technical University and is currently working on her Master's in Computer Science. She is currently working on the Polyhedral Dataflow IR project.
-
-* * *
-
-![Aaron Orenstein](/assets/img/Aaron.jpg)
-
-#### Aaron Orenstein
-
-Aaron is a senior at Capital High School and Treasure Valley Math and Science Center. He is currently working on the Lidar Data Processing project.
-
-* * *
-
-![Spencer Fleming](/assets/img/Spencer.jpg)
-
-#### Spencer Fleming
-
-Spencer is currently in his Senior year of his Bachelor's Degree in Computer Science with a minor in Applied Mathematics. He is currently working on the Lidar Data Processing project.
-
-* * *
+## Undergraduates
 
 ![Jared White](/assets/img/Jared.jpg)
 
@@ -107,26 +79,11 @@ Floriana is majoring in Computer Science and minoring in Applied Math here at Bo
 
 <br>
 
-## Alumni
+## High School Students
 
-![Aza Tulepbergenov](/assets/img/Aza.jpg)
+![Aaron Orenstein](/assets/img/Aaron.jpg)
 
-#### Aza Tulepbergenov
+#### Aaron Orenstein
 
-Aza graduated from Boise State with a Bachelor's degree in Computer Science in 2018. He is currently employed at Google.
+Aaron recently graduated from Capital High School and Treasure Valley Math and Science Center. He has worked on the Lidar Data Processing project and Ionoseis project and is currently working on the CHiLL-I/E project.
 
-* * *
-
-![Travis Adsitt](/assets/img/Travis.jpg)
-
-#### Travis Adsitt
-
-Travis graduated from Boise State with a Bachelor's degree in Computer Science in 2019. He is currently employed at Micron.
-
-* * *
-
-![Mahesh Lakshminarasimhan](/assets/img/Mahesh.png)
-
-#### Mahesh Lakshminarasimhan
-
-Mahesh Lakshminarasimhan received his Bachelor’s in Computer Science from Anna University, Chennai, India, and his Master's in Computer Science at Boise State University. He currently is pursuing his PhD in Computer Science at the University of Utah in Salt Lake City, UT.
