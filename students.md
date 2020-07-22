@@ -77,6 +77,16 @@ Jared is currently in the Junior year of his Bachelor's Degree in Computer Scien
 
 Floriana is majoring in Computer Science and minoring in Applied Math here at Boise State. She is currently working on the Lidar Data Processing project.
 
+
+* * *
+
+![Chinwendum Njoku](/assets/img/Chinwe.jpeg)
+
+#### Chinwendum Njoku
+
+Chinwendum Njoku is an Undergraduate of Boise State University majoring in Computer Science and minoring in Applied math. She is currently working on updates on the adapt lab website.
+
+
 <br>
 
 ## High School Students
