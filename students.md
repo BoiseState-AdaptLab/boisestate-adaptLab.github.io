@@ -80,8 +80,8 @@ Floriana is majoring in Computer Science and minoring in Applied Math here at Bo
 
 * * *
 
-![Chinwendum Njoku](/assets/img/Chinwe.jpeg)
 
+<img src="/assets/img/Chinwendum.jpeg" width="200" alt="Chinwendum Njoku" />
 #### Chinwendum Njoku
 
 Chinwendum Njoku is an Undergraduate of Boise State University majoring in Computer Science and minoring in Applied math. She is currently working on updates on the adapt lab website.
