@@ -92,7 +92,7 @@ Chinwendum Njoku is an Undergraduate of Boise State University majoring in Compu
 <img src="/assets/img/Anna.jpeg" width="200" alt="Anna Rift" />
 #### Anna Rift
 
-Anna (they/she) is a sophomore majoring in Computer Science and Mathematics at Boise State University. They are currently working on the ChiLL-I/E project.:wq".
+Anna (they/she) is a sophomore majoring in Computer Science and Mathematics at Boise State University. They are currently working on the ChiLL-I/E project.:wq
 
 
 * * *
@@ -114,7 +114,7 @@ Geoffrey is an undergraduate student at Boise State University, and will be grad
 William, is a current student at Boise State. He has a bachelors degree in Mass Communications, and currently pursuing his Computer Science degree with an emphasis in machine learning. He is working on the hydroframe project.
 
 
- 
+
 * * *
 
 ![Nicholas Prussen](/assets/img/Nicholas.jpeg)
