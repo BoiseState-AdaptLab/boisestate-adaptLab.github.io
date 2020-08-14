@@ -81,7 +81,7 @@ Floriana is majoring in Computer Science and minoring in Applied Math here at Bo
 * * *
 
 
-<img src="/assets/img/chinwe.jpeg" width="200" alt="Chinwendum Njoku" />
+<img src="/assets/img/Chinwe.jpeg" width="200" alt="Chinwendum Njoku" />
 #### Chinwendum Njoku
 
 Chinwendum Njoku is an Undergraduate of Boise State University majoring in Computer Science and minoring in Applied math. She is currently working on updates on the adapt lab website.
@@ -97,7 +97,7 @@ Anna (they/she) is a sophomore majoring in Computer Science and Mathematics at B
 * * *
 
 
-<img src="/assets/img/Geoffrey.jpeg" Height="350" alt="Geoffrey Meier" />
+<img src="/assets/img/Geoffrey.jpeg" width="200" alt="Geoffrey Meier" />
 #### Geoffrey Meier
 
 Geoffrey is an undergraduate student at Boise State University, and will be graduating Fall 2020 with a Bachelor of Science degree in Computer Science and a minor in Applied Mathematics. He is currently working on the CHiLL-I/E project.
@@ -105,8 +105,8 @@ Geoffrey is an undergraduate student at Boise State University, and will be grad
 
 * * *
 
-![William Lawrence](/assets/img/Will.jpeg)
 
+<img src="/assets/img/Will.jpeg" width="200" alt="William Lawrence" />
 #### William Lawrence
 
 William, is a current student at Boise State. He has a bachelors degree in Mass Communications, and currently pursuing his Computer Science degree with an emphasis in machine learning. He is working on the hydroframe project.
