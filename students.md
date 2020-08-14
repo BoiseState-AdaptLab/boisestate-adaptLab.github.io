@@ -71,9 +71,8 @@ Jared is currently in the Junior year of his Bachelor's Degree in Computer Scien
 
 * * *
 
-![Floriana Ciaglia](/assets/img/Flo.jpg)
 
-<img src="/assets/img/Flo.jpeg" width="200" alt="Floriana Ciaglia" />
+<img src="/assets/img/Flo.jpeg" Height="350" alt="Floriana Ciaglia" />
 #### Floriana Ciaglia
 
 Floriana is majoring in Computer Science and minoring in Applied Math here at Boise State. She is currently working on the Lidar Data Processing project.
@@ -97,9 +96,8 @@ Anna (they/she) is a sophomore majoring in Computer Science and Mathematics at B
 
 * * *
 
-![Geoffery Meier](/assets/img/Geoffrey.jpeg)
 
-<img src="/assets/img/Geoffrey.jpeg" width="200" alt="Geoffrey Meier" />
+<img src="/assets/img/Geoffrey.jpeg" Height="350" alt="Geoffrey Meier" />
 #### Geoffrey Meier
 
 Geoffrey is an undergraduate student at Boise State University, and will be graduating Fall 2020 with a Bachelor of Science degree in Computer Science and a minor in Applied Mathematics. He is currently working on the CHiLL-I/E project.
