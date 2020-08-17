@@ -75,8 +75,8 @@ Jared is currently in the Junior year of his Bachelor's Degree in Computer Scien
 <img src="/assets/img/Flo.jpeg" height="350" alt="Floriana Ciaglia" />
 #### Floriana Ciaglia
 
-Floriana is majoring in Computer Science and minoring in Applied Math here at Boise State. She is currently working on the Lidar Data Processing project.
-
+Floriana is a junior majoring in Computer Science and minoring in Applied Mathematics here at Boise State University. She is currently working on the ChiLL-I/E project. 
+In summer 2020, Floriana interned at NCAR (National Center for Atmospheric Research) where she worked on the refactoring of ASPEN - a program that performs quality control and data analysis of sounding data. 
 
 * * *
 
@@ -91,7 +91,7 @@ Chinwendum Njoku is an Undergraduate of Boise State University majoring in Compu
 <img src="/assets/img/Anna.jpeg" width="200" alt="Anna Rift" />
 #### Anna Rift
 
-Anna (they/she) is a sophomore majoring in Computer Science and Mathematics at Boise State University. They are currently working on the ChiLL-I/E project.:wq
+Anna (they/she) is a sophomore majoring in Computer Science and Mathematics at Boise State University. They are currently working on the ChiLL-I/E project.
 
 
 * * *
