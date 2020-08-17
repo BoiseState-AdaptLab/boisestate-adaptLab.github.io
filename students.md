@@ -75,7 +75,8 @@ Jared is currently in the Junior year of his Bachelor's Degree in Computer Scien
 <img src="/assets/img/Flo.jpeg" height="350" alt="Floriana Ciaglia" />
 #### Floriana Ciaglia
 
-Floriana is a junior majoring in Computer Science and minoring in Applied Mathematics here at Boise State University. She is currently working on the ChiLL-I/E project. (space, space)
+Floriana is a junior majoring in Computer Science and minoring in Applied Mathematics here at Boise State University. She is currently working on the ChiLL-I/E project.
+
 In summer 2020, Floriana interned at NCAR (National Center for Atmospheric Research) where she worked on the refactoring of ASPEN - a program that performs quality control and data analysis of sounding data. 
 
 * * *
