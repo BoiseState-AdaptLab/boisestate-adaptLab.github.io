@@ -64,7 +64,7 @@ Ravi completed his Bachelor's in Computer Science with a minor in Applied Mathem
 ## Undergraduates
 
 
-<img src="/assets/img/Jared.jpeg" height="400" width="300" alt="Jared White" />
+<img src="/assets/img/Jared.jpeg" width="300" height="400" alt="Jared White" />
 #### Jared White
 
 Jared is currently in the Junior year of his Bachelor's Degree in Computer Science at Boise State University. He has worked on the Parflow project under Michael Burke.
@@ -97,7 +97,7 @@ Anna (they/she) is a sophomore majoring in Computer Science and Mathematics at B
 * * *
 
 
-<img src="/assets/img/Geoffrey.jpeg" height="400" width="300" alt="Geoffrey Meier" />
+<img src="/assets/img/Geoffrey.jpeg" width="300" height="400" alt="Geoffrey Meier" />
 #### Geoffrey Meier
 
 Geoffrey is an undergraduate student at Boise State University, and will be graduating Fall 2020 with a Bachelor of Science degree in Computer Science and a minor in Applied Mathematics. He is currently working on the CHiLL-I/E project.
@@ -106,7 +106,7 @@ Geoffrey is an undergraduate student at Boise State University, and will be grad
 * * *
 
 
-<img src="/assets/img/Will.jpeg" height="400" width="300" alt="William Lawrence" />
+<img src="/assets/img/Will.jpeg" width="300" height="400" alt="William Lawrence" />
 #### William Lawrence
 
 William, is a current student at Boise State. He has a bachelors degree in Mass Communications, and currently pursuing his Computer Science degree with an emphasis in machine learning. He is working on the hydroframe project.
@@ -116,7 +116,7 @@ William, is a current student at Boise State. He has a bachelors degree in Mass 
 * * *
 
 
-<img src="/assets/img/Nicholas.jpeg" height="400" width="300" alt="Nicholas Prussen" />
+<img src="/assets/img/Nicholas.jpeg" width="300" height="400" alt="Nicholas Prussen" />
 #### Nicholas Prussen
 
 Nicholas Prussen is currently a Junior majoring in Computer Science here at Boise State.   He is currently working on the Parflow Project under Ahmad Rezaii. He also worked on the Lidar Data Processing
@@ -128,7 +128,7 @@ Project.
 ## High School Students
 
 
-<img src="/assets/img/Aaron.jpeg" height="400" width="300" alt="Aaron Orenstein" />
+<img src="/assets/img/Aaron.jpeg" width="300" height="400" alt="Aaron Orenstein" />
 #### Aaron Orenstein
 
 Aaron recently graduated from Capital High School and Treasure Valley Math and Science Center and will be attending Case Western Reserve University for a BS in Computer Science. He has worked on the Lidar Data Processing project and Ionoseis project and is currently working on the CHiLL-I/E project.
