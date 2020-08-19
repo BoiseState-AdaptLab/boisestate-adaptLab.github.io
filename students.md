@@ -98,7 +98,7 @@ Anna (they/she) is a sophomore majoring in Computer Science and Mathematics at B
 * * *
 
 
-<img src="/assets/img/Geoffrey.jpeg" height="400" alt="Geoffrey Meier" />
+<img src="/assets/img/Geoffrey.jpeg" height="350" alt="Geoffrey Meier" />
 #### Geoffrey Meier
 
 Geoffrey is an undergraduate student at Boise State University, and will be graduating Fall 2020 with a Bachelor of Science degree in Computer Science and a minor in Applied Mathematics. He is currently working on the CHiLL-I/E project.
@@ -107,7 +107,7 @@ Geoffrey is an undergraduate student at Boise State University, and will be grad
 * * *
 
 
-<img src="/assets/img/Will.jpeg" height="400" alt="William Lawrence" />
+<img src="/assets/img/Will.jpeg" height="350" alt="William Lawrence" />
 #### William Lawrence
 
 William, is a current student at Boise State. He has a bachelors degree in Mass Communications, and currently pursuing his Computer Science degree with an emphasis in machine learning. He is working on the hydroframe project.
@@ -117,7 +117,7 @@ William, is a current student at Boise State. He has a bachelors degree in Mass 
 * * *
 
 
-<img src="/assets/img/Nicholas.jpeg" height="400" alt="Nicholas Prussen" />
+<img src="/assets/img/Nicholas.jpeg" height="350" alt="Nicholas Prussen" />
 #### Nicholas Prussen
 
 Nicholas Prussen is currently a Junior majoring in Computer Science here at Boise State.   He is currently working on the Parflow Project under Ahmad Rezaii. He also worked on the Lidar Data Processing
