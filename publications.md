@@ -17,16 +17,739 @@ layout: default
 
 <br>
 
-{% for item in site.data.publications.publications %}
+<table>
 
-{% if item.url %}
-## [{{ item.title }}]({{ item.url }})
-{% else %}
-## {{ item.title }}
-{% endif %}
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="smallen2004inca">1</a>]
+</td>
+<td class="bibtexitem">
+Shava Smallen, Catherine Olschanowsky, Kate Ericson, Pete Beckman, and
+  Jennifer&nbsp;M Schopf.
+ The inca test harness and reporting framework.
+ In <em>SC'04: Proceedings of the 2004 ACM/IEEE Conference on
+  Supercomputing</em>, pages 55--55. IEEE, 2004.
+[&nbsp;<a href="adapt_bib.html#smallen2004inca">bib</a>&nbsp;]
 
-{{ item.authors }}. {% if item.year %}{{ item.year }}. {% endif %} {% if item.journal %}{{ item.journal }}. {% endif %} {% if item.conference %}{{ item.conference }}. {% endif %} {% if item.publisher %}{{ item.publisher }}. {% endif %}
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="khalili2006measuring">2</a>]
+</td>
+<td class="bibtexitem">
+Omid Khalili, Jiahua He, Catherine Olschanowsky, Allan Snavely, and Henri
+  Casanova.
+ Measuring the performance and reliability of production computational
+  grids.
+ In <em>2006 7th IEEE/ACM International Conference on Grid
+  Computing</em>, pages 293--300. IEEE, 2006.
+[&nbsp;<a href="adapt_bib.html#khalili2006measuring">bib</a>&nbsp;]
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="smallen2007user">3</a>]
+</td>
+<td class="bibtexitem">
+Shava Smallen, Kate Ericson, Jim Hayes, and Catherine Olschanowsky.
+ User-level grid monitoring with inca 2.
+ In <em>Proceedings of the 2007 workshop on Grid monitoring</em>, pages
+  29--38, 2007.
+[&nbsp;<a href="adapt_bib.html#smallen2007user">bib</a>&nbsp;]
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="carrington2011idiom">4</a>]
+</td>
+<td class="bibtexitem">
+Laura Carrington, Mustafa&nbsp;M Tikir, Catherine Olschanowsky, Michael Laurenzano,
+  Joshua Peraza, Allan Snavely, and Stephen Poole.
+ An idiom-finding tool for increasing productivity of accelerators.
+ In <em>Proceedings of the international conference on
+  Supercomputing</em>, pages 202--212, 2011.
+[&nbsp;<a href="adapt_bib.html#carrington2011idiom">bib</a>&nbsp;]
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="olschanowsky2009psnap">5</a>]
+</td>
+<td class="bibtexitem">
+Catherine&nbsp;Mills Olschanowsky, Mustafa&nbsp;M Tikir, Laura Carrington, and Allan
+  Snavely.
+ Psnap: accurate synthetic address streams through memory profiles.
+ In <em>International Workshop on Languages and Compilers for
+  Parallel Computing</em>, pages 353--367. Springer, Berlin, Heidelberg, 2009.
+[&nbsp;<a href="adapt_bib.html#olschanowsky2009psnap">bib</a>&nbsp;]
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="olschanowsky2010pir">6</a>]
+</td>
+<td class="bibtexitem">
+Catherine Olschanowsky, Allan Snavely, Mitesh&nbsp;R Meswani, and Laura Carrington.
+ Pir: Pmac's idiom recognizer.
+ In <em>2010 39th International Conference on Parallel Processing
+  Workshops</em>, pages 189--196. IEEE, 2010.
+[&nbsp;<a href="adapt_bib.html#olschanowsky2010pir">bib</a>&nbsp;]
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="olschanowsky2010fine">7</a>]
+</td>
+<td class="bibtexitem">
+Catherine&nbsp;Mills Olschanowsky, Tajana Rosing, Allan Snavely, Laura Carrington,
+  Mustafa&nbsp;M Tikir, and Michael Laurenzano.
+ Fine-grained energy consumption characterization and modeling.
+ In <em>2010 DoD High Performance Computing Modernization Program
+  Users Group Conference</em>, pages 487--497. IEEE, 2010.
+[&nbsp;<a href="adapt_bib.html#olschanowsky2010fine">bib</a>&nbsp;]
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="wright2009measuring">8</a>]
+</td>
+<td class="bibtexitem">
+Nicholas&nbsp;J Wright, Shava Smallen, Catherine&nbsp;Mills Olschanowsky, Jim Hayes, and
+  Allan Snavely.
+ Measuring and understanding variation in benchmark performance.
+ In <em>2009 DoD High Performance Computing Modernization Program
+  Users Group Conference</em>, pages 438--443. IEEE, 2009.
+[&nbsp;<a href="adapt_bib.html#wright2009measuring">bib</a>&nbsp;]
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="de2009modeling">9</a>]
+</td>
+<td class="bibtexitem">
+Bronis&nbsp;R De&nbsp;Supinski, Sadaf Alam, David&nbsp;H Bailey, Laura Carrington, Chris
+  Daley, Anshu Dubey, Todd Gamblin, Dan Gunter, Paul&nbsp;D Hovland, Heike Jagode,
+  et&nbsp;al.
+ Modeling the office of science ten year facilities plan: the peri
+  architecture tiger team.
+ In <em>Journal of Physics: conference series</em>, volume 180, page
+  012039. IOP Publishing, 2009.
+[&nbsp;<a href="adapt_bib.html#de2009modeling">bib</a>&nbsp;]
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="strout2012set">10</a>]
+</td>
+<td class="bibtexitem">
+Michelle&nbsp;Mills Strout, Geri Georg, and Catherine Olschanowsky.
+ Set and relation manipulation for the sparse polyhedral framework.
+ In <em>International Workshop on Languages and Compilers for
+  Parallel Computing</em>, pages 61--75. Springer, Berlin, Heidelberg, 2012.
+[&nbsp;<a href="adapt_bib.html#strout2012set">bib</a>&nbsp;]
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="olschanowsky2014bgpmon">11</a>]
+</td>
+<td class="bibtexitem">
+Catherine Olschanowsky and Dan Massey.
+ Bgpmon v7: A scalable real-time bgp monitor.
+ In <em>The Rocky Mountain Celebration of Women in Computing
+  (RMCWiC)</em>, 2014.
+[&nbsp;<a href="adapt_bib.html#olschanowsky2014bgpmon">bib</a>&nbsp;]
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="krieger2013loop">12</a>]
+</td>
+<td class="bibtexitem">
+Christopher&nbsp;D Krieger, Michelle&nbsp;Mills Strout, Catherine Olschanowsky, Andrew
+  Stone, Stephen Guzik, Xinfeng Gao, Carlo Bertolli, Paul&nbsp;HJ Kelly, Gihan
+  Mudalige, Brian Van&nbsp;Straalen, et&nbsp;al.
+ Loop chaining: A programming abstraction for balancing locality and
+  parallelism.
+ In <em>2013 IEEE International Symposium on Parallel &amp; Distributed
+  Processing, Workshops and Phd Forum</em>, pages 375--384. IEEE, 2013.
+[&nbsp;<a href="adapt_bib.html#krieger2013loop">bib</a>&nbsp;]
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="thomas2002application">13</a>]
+</td>
+<td class="bibtexitem">
+Mary Thomas, Maytal Dahan, Kurt Mueller, Steve Mock, Cathie Mills, and Ray
+  Regno.
+ Application portals: practice and experience.
+ <em>Concurrency and Computation: Practice and Experience</em>,
+  14(13-15):1427--1443, 2002.
+[&nbsp;<a href="adapt_bib.html#thomas2002application">bib</a>&nbsp;]
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="thomas2003development">14</a>]
+</td>
+<td class="bibtexitem">
+Mary Thomas, Jay Boisseau, Maytal Dahan, Catherine Mills, S&nbsp;Mock, and Kurt
+  Mueller.
+ Development of npaci grid application portals and portal web
+  services.
+ <em>Cluster Computing</em>, 6(3):177--188, 2003.
+[&nbsp;<a href="adapt_bib.html#thomas2003development">bib</a>&nbsp;]
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="mills2011tool">15</a>]
+</td>
+<td class="bibtexitem">
+Catherine Mills, Allan Snavely, and Laura Carrington.
+ A tool for characterizing and succinctly representing the data access
+  patterns of applications.
+ In <em>2011 IEEE International Symposium on Workload
+  Characterization (IISWC)</em>, pages 126--135. IEEE, 2011.
+[&nbsp;<a href="adapt_bib.html#mills2011tool">bib</a>&nbsp;]
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="olschanowsky2011hpc">16</a>]
+</td>
+<td class="bibtexitem">
+Catherine Rose&nbsp;Mills Olschanowsky.
+ <em>HPC Application Address Stream Compression, Replay and Scaling</em>.
+ PhD thesis, University of California, San Diego, 2011.
+[&nbsp;<a href="adapt_bib.html#olschanowsky2011hpc">bib</a>&nbsp;]
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="olschanowsky2013delivering">17</a>]
+</td>
+<td class="bibtexitem">
+Catherine Olschanowsky, M&nbsp;Lawrence Weikum, Jason Smith, Christos Papadopoulos,
+  and Dan Massey.
+ Delivering diverse bgp data in real-time and through multi-format
+  archiving.
+ In <em>2013 IEEE International Conference on Technologies for
+  Homeland Security (HST)</em>, pages 698--703. IEEE, 2013.
+[&nbsp;<a href="adapt_bib.html#olschanowsky2013delivering">bib</a>&nbsp;]
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="olschanowsky2014study">18</a>]
+</td>
+<td class="bibtexitem">
+Catherine Olschanowsky, Stephen Guzik, John Loffeld, Jeffrey Hittinger, and
+  Michelle&nbsp;M. Strout.
+ A study on balancing parallelism, data locality, and recomputation in
+  existing pde solvers.
+ In <em>Proceedings of the International Conference for High
+  Performance Computing, Networking, Storage and Analysis</em>, pages 793--804.
+  IEEE Press, 2014.
+[&nbsp;<a href="adapt_bib.html#olschanowsky2014study">bib</a>&nbsp;]
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="strout2016approach">19</a>]
+</td>
+<td class="bibtexitem">
+Michelle&nbsp;Mills Strout, Alan LaMielle, Larry Carter, Jeanne Ferrante, Barbara
+  Kreaseck, and Catherine Olschanowsky.
+ An approach for code generation in the sparse polyhedral framework.
+ <em>Parallel Computing</em>, 53:32--57, 2016.
+[&nbsp;<a href="adapt_bib.html#strout2016approach">bib</a>&nbsp;]
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="strout2014generalizing">20</a>]
+</td>
+<td class="bibtexitem">
+Michelle&nbsp;Mills Strout, Fabio Luporini, Christopher&nbsp;D Krieger, Carlo Bertolli,
+  Gheorghe-Teodor Bercea, Catherine Olschanowsky, J&nbsp;Ramanujam, and Paul&nbsp;HJ
+  Kelly.
+ Generalizing run-time tiling with the loop chain abstraction.
+ In <em>2014 IEEE 28th International Parallel and Distributed
+  Processing Symposium</em>, pages 1136--1145. IEEE, 2014.
+[&nbsp;<a href="adapt_bib.html#strout2014generalizing">bib</a>&nbsp;]
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="olschanowsky2014supporting">21</a>]
+</td>
+<td class="bibtexitem">
+Catherine Olschanowsky, Susmit Shannigrahi, and Christos Papadopoulos.
+ Supporting climate research using named data networking.
+ In <em>2014 IEEE 20th International Workshop on Local &amp;
+  Metropolitan Area Networks (LANMAN)</em>, pages 1--6. IEEE, 2014.
+[&nbsp;<a href="adapt_bib.html#olschanowsky2014supporting">bib</a>&nbsp;]
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="bertolacci2015parameterized">22</a>]
+</td>
+<td class="bibtexitem">
+Ian&nbsp;J Bertolacci, Catherine Olschanowsky, Ben Harshbarger, Bradford&nbsp;L
+  Chamberlain, David&nbsp;G Wonnacott, and Michelle&nbsp;Mills Strout.
+ Parameterized diamond tiling for stencil computations with chapel
+  parallel iterators.
+ In <em>Proceedings of the 29th ACM on International Conference on
+  Supercomputing</em>, pages 197--206, 2015.
+[&nbsp;<a href="adapt_bib.html#bertolacci2015parameterized">bib</a>&nbsp;]
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="fan2015managing">23</a>]
+</td>
+<td class="bibtexitem">
+Chengyu Fan, Susmit Shannigrahi, Steve DiBenedetto, Catherine Olschanowsky,
+  Christos Papadopoulos, and Harvey Newman.
+ Managing scientific data with named data networking.
+ In <em>Proceedings of the Fifth International Workshop on
+  Network-Aware Data Management</em>, pages 1--7, 2015.
+[&nbsp;<a href="adapt_bib.html#fan2015managing">bib</a>&nbsp;]
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="riley2016enabling">24</a>]
+</td>
+<td class="bibtexitem">
+Jordan Riley, Xinfeng Gao, Catherine Olschanowsky, and Stephen&nbsp;M Guzik.
+ Enabling performance optimization of cfd applications with
+  source-to-source compiler technology.
+ In <em>54th AIAA Aerospace Sciences Meeting</em>, page 1812, 2016.
+[&nbsp;<a href="adapt_bib.html#riley2016enabling">bib</a>&nbsp;]
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="guzik2016high">25</a>]
+</td>
+<td class="bibtexitem">
+Stephen&nbsp;M Guzik, Xinfeng Gao, and C&nbsp;Olschanowsky.
+ A high-performance finite-volume algorithm for solving partial
+  differential equations governing compressible viscous flows on structured
+  grids.
+ <em>Computers &amp; Mathematics with Applications</em>, 72(9):2098--2118,
+  2016.
+[&nbsp;<a href="adapt_bib.html#guzik2016high">bib</a>&nbsp;]
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="strout2015practical">26</a>]
+</td>
+<td class="bibtexitem">
+Michelle&nbsp;Mills Strout, Ian&nbsp;J Bertolacci, and Catherine Olschanowsky.
+ Practical diamond tiling for stencil computations using chapel
+  iterators.
+ In <em>The Chapel Implementers and Users Workshop (CHIUW)</em>, 2015.
+[&nbsp;<a href="adapt_bib.html#strout2015practical">bib</a>&nbsp;]
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="bertolacci2016identifying">27</a>]
+</td>
+<td class="bibtexitem">
+Ian&nbsp;J Bertolacci, Michelle&nbsp;Mills Strout, Stephen Guzik, Jordan Riley, and
+  Catherine Olschanowsky.
+ Identifying and scheduling loop chains using directives.
+ In <em>2016 Third Workshop on Accelerator Programming Using
+  Directives (WACCPD)</em>, pages 57--67. IEEE, 2016.
+[&nbsp;<a href="adapt_bib.html#bertolacci2016identifying">bib</a>&nbsp;]
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="nandy2018abstractions">28</a>]
+</td>
+<td class="bibtexitem">
+Payal Nandy, Mary Hall, Eddie&nbsp;C Davis, Catherine Olschanowsky, Mahdi&nbsp;Soltan
+  Mohammadi, Wei He, and Michelle Strout.
+ Abstractions for specifying sparse matrix data transformations.
+ In <em>Proceedings of the Eighth International Workshop on
+  Polyhedral Compilation Techniques</em>, 2018.
+[&nbsp;<a href="adapt_bib.html#nandy2018abstractions">bib</a>&nbsp;]
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="davis2018transforming">29</a>]
+</td>
+<td class="bibtexitem">
+Eddie&nbsp;C Davis, Michelle&nbsp;Mills Strout, and Catherine Olschanowsky.
+ Transforming loop chains via macro dataflow graphs.
+ In <em>Proceedings of the 2018 International Symposium on Code
+  Generation and Optimization</em>, pages 265--277, 2018.
+[&nbsp;<a href="adapt_bib.html#davis2018transforming">bib</a>&nbsp;]
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="strout2018sparse">30</a>]
+</td>
+<td class="bibtexitem">
+Michelle&nbsp;Mills Strout, Mary Hall, and Catherine Olschanowsky.
+ The sparse polyhedral framework: Composing compiler-generated
+  inspector-executor code.
+ <em>Proceedings of the IEEE</em>, 106(11):1921--1934, 2018.
+[&nbsp;<a href="adapt_bib.html#strout2018sparse">bib</a>&nbsp;]
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="bertolacci2018extending">31</a>]
+</td>
+<td class="bibtexitem">
+Ian Bertolacci, Michelle&nbsp;Mills Strout, Bronis&nbsp;R de&nbsp;Supinski, Thomas&nbsp;RW
+  Scogland, Eddie&nbsp;C Davis, and Catherine Olschanowsky.
+ Extending openmp to facilitate loop optimization.
+ In <em>International Workshop on OpenMP</em>, pages 53--65. Springer,
+  Cham, 2018.
+[&nbsp;<a href="adapt_bib.html#bertolacci2018extending">bib</a>&nbsp;]
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="bertolacci2019using">32</a>]
+</td>
+<td class="bibtexitem">
+Ian&nbsp;J Bertolacci, Michelle&nbsp;Mills Strout, Jordan Riley, Stephen&nbsp;MJ Guzik,
+  Eddie&nbsp;C Davis, and Catherine Olschanowsky.
+ Using the loop chain abstraction to schedule across loops in existing
+  code.
+ <em>International Journal of High Performance Computing and
+  Networking</em>, 13(1):86--104, 2019.
+[&nbsp;<a href="adapt_bib.html#bertolacci2019using">bib</a>&nbsp;]
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="lakshminarasimhan2018adaptmembench">33</a>]
+</td>
+<td class="bibtexitem">
+Mahesh Lakshminarasimhan and Catherine Olschanowsky.
+ Adaptmembench: Application-specific memorysubsystem benchmarking.
+ <em>arXiv preprint arXiv:1812.07778</em>, 2018.
+[&nbsp;<a href="adapt_bib.html#lakshminarasimhan2018adaptmembench">bib</a>&nbsp;]
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="mohammadi2019sparse">34</a>]
+</td>
+<td class="bibtexitem">
+Mahdi&nbsp;Soltan Mohammadi, Tomofumi Yuki, Kazem Cheshmi, Eddie&nbsp;C Davis, Mary Hall,
+  Maryam&nbsp;Mehri Dehnavi, Payal Nandy, Catherine Olschanowsky, Anand Venkat, and
+  Michelle&nbsp;Mills Strout.
+ Sparse computation data dependence simplification for efficient
+  compiler-generated inspectors.
+ In <em>Proceedings of the 40th ACM SIGPLAN Conference on Programming
+  Language Design and Implementation</em>, pages 594--609, 2019.
+[&nbsp;<a href="adapt_bib.html#mohammadi2019sparse">bib</a>&nbsp;]
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="li2020parallel">35</a>]
+</td>
+<td class="bibtexitem">
+Jiajia Li, Mahesh Lakshminarasimhan, Xiaolong Wu, Ang Li, Catherine
+  Olschanowsky, and Kevin Barker.
+ A parallel sparse tensor benchmark suite on cpus and gpus.
+ In <em>Proceedings of the 25th ACM SIGPLAN Symposium on Principles
+  and Practice of Parallel Programming</em>, pages 403--404, 2020.
+[&nbsp;<a href="adapt_bib.html#li2020parallel">bib</a>&nbsp;]
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="osterweil2012network">36</a>]
+</td>
+<td class="bibtexitem">
+E&nbsp;Osterweil and C&nbsp;Olschanowsky.
+ Network working group j. gersch internet-draft secure64 sw corp
+  intended status: Informational d. massey expires: April 5, 2013 maka’ala
+  networks.
+ 2012.
+[&nbsp;<a href="adapt_bib.html#osterweil2012network">bib</a>&nbsp;]
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="osterweil2013network">37</a>]
+</td>
+<td class="bibtexitem">
+E&nbsp;Osterweil and C&nbsp;Olschanowsky.
+ Network working group j. gersch internet-draft secure64 sw corp
+  intended status: Informational d. massey expires: August 29, 2013 colorado
+  state university.
+ 2013.
+[&nbsp;<a href="adapt_bib.html#osterweil2013network">bib</a>&nbsp;]
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="olschanowsky2012network">38</a>]
+</td>
+<td class="bibtexitem">
+C&nbsp;Olschanowsky and L&nbsp;Zhang.
+ Network working group j. gersch internet-draft secure64 sw corp
+  intended status: Standards track d. massey expires: March 2, 2013 maka’ala
+  networks.
+ 2012.
+[&nbsp;<a href="adapt_bib.html#olschanowsky2012network">bib</a>&nbsp;]
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="olschanowsky2017developing">39</a>]
+</td>
+<td class="bibtexitem">
+Catherine Olschanowsky, Alejandro&nbsp;N Flores, Katelyn FitzGerald, Matthew&nbsp;T
+  Masarik, William&nbsp;J Rudisill, and Miguel Aguayo.
+ Developing a collection of composable data translation software units
+  to improve efficiency and reproducibility in ecohydrologic modeling
+  workflows.
+ <em>AGUFM</em>, 2017:IN32C--06, 2017.
+[&nbsp;<a href="adapt_bib.html#olschanowsky2017developing">bib</a>&nbsp;]
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="snavely2010fine">40</a>]
+</td>
+<td class="bibtexitem">
+Allan Snavely, Michael Laurenzano, Laura Carrington, Catherine&nbsp;Mills
+  Olschanowsky, Tajana Rosing, and Mustafa&nbsp;M Tikir.
+ Fine-grained energy consumption characterization and modeling.
+ 2010.
+[&nbsp;<a href="adapt_bib.html#snavely2010fine">bib</a>&nbsp;]
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="olschanowsky2019improving">41</a>]
+</td>
+<td class="bibtexitem">
+C&nbsp;Olschanowsky, M&nbsp;Burke, LE&nbsp;Condon, and RM&nbsp;Maxwell.
+ Improving the software architecture for a continental scale
+  integrated modeling framework for better software productivity: Boundary
+  conditions, programming abstractions, and developments in the parflow
+  modeling platform.
+ <em>AGUFM</em>, 2019:A13H--3035, 2019.
+[&nbsp;<a href="adapt_bib.html#olschanowsky2019improving">bib</a>&nbsp;]
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="olschanowsky2019hydroframe">42</a>]
+</td>
+<td class="bibtexitem">
+C&nbsp;Olschanowsky, RM&nbsp;Maxwell, LE&nbsp;Condon, M&nbsp;Strout, I&nbsp;Altintas, S&nbsp;Purawat,
+  L&nbsp;Gallagher, H&nbsp;Tran, and J&nbsp;Zhang.
+ Hydroframe: A software framework to enable continental scale
+  hydrologic simulation.
+ <em>AGUFM</em>, 2019:A11A--01, 2019.
+[&nbsp;<a href="adapt_bib.html#olschanowsky2019hydroframe">bib</a>&nbsp;]
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="shankar2019adaptlidartools">43</a>]
+</td>
+<td class="bibtexitem">
+Ravi Shankar, Nayani Ilangakoon, Aaron Orenstein, Floriana Ciaglia, Nancy
+  Glenn, and Catherine Olschanowsky.
+ Adaptlidartools: A full-waveform lidar processing suite.
+ In <em>2019 15th International Conference on eScience (eScience)</em>,
+  pages 369--377. IEEE, 2019.
+[&nbsp;<a href="adapt_bib.html#shankar2019adaptlidartools">bib</a>&nbsp;]
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="purawat2020scalable">44</a>]
+</td>
+<td class="bibtexitem">
+Shweta Purawat, Cathie Olschanowsky, Laura&nbsp;E Condon, Reed Maxwell, and Ilkay
+  Altintas.
+ Scalable workflow-driven hydrologic analysis in hydroframe.
+ In <em>International Conference on Computational Science</em>, pages
+  276--289. Springer, Cham, 2020.
+[&nbsp;<a href="adapt_bib.html#purawat2020scalable">bib</a>&nbsp;]
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="purawat2019end">45</a>]
+</td>
+<td class="bibtexitem">
+Shweta Purawat, Cathie Olschanowsky, Laura&nbsp;E Condon, Reed&nbsp;M Maxwell, and Ilkay
+  Altintas.
+ End-to-end workflow-driven hydrologic analysis for different user
+  groups in hydroframe.
+ <em>AGUFM</em>, 2019:A13H--3033, 2019.
+[&nbsp;<a href="adapt_bib.html#purawat2019end">bib</a>&nbsp;]
+
+</td>
+</tr>
+</table>
+
+<!-- {% for item in site.data.publications.publications %} -->
+
+<!-- {% if item.url %} -->
+<!-- ## [{{ item.title }}]({{ item.url }}) -->
+<!-- {% else %} -->
+<!-- ## {{ item.title }} -->
+<!-- {% endif %} -->
+
+<!-- {{ item.authors }}. {% if item.year %}{{ item.year }}. {% endif %} {% if item.journal %}{{ item.journal }}. {% endif %} {% if item.conference %}{{ item.conference }}. {% endif %} {% if item.publisher %}{{ item.publisher }}. {% endif %} -->
 
 <br>
 
-{% endfor %}
+<!-- {% endfor %} -->
