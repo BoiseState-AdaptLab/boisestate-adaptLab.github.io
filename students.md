@@ -56,7 +56,7 @@ Shivani received her Bachelor's in Computer Science from Rajasthan Technical Uni
 
 #### Ravi Shankar
 
-Ravi completed his Bachelor's in Computer Science with a minor in Applied Mathematics and is currently a Masters student at Boise State University. He has worked on the Lidar Data Processing project and is currently working on the IonoSeis project.
+Ravi completed his Bachelor's in Computer Science with a minor in Applied Mathematics and is currently a Masters student at Boise State University. He has worked on the Lidar Data Processing project and is currently working on the IonoSeis project. During Summer 2020, he interned with Intel for the NSG Data Analytics and Machine Learning group and worked on multiple software engineering projects. 
 
 * * *
 <br>
