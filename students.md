@@ -67,7 +67,7 @@ Ravi completed his Bachelor's in Computer Science with a minor in Applied Mathem
 <img src="/assets/img/Jared.jpg" height="350" alt="Jared White" />
 #### Jared White
 
-Jared is currently in the Junior year of his Bachelor's Degree in Computer Science at Boise State University. He has worked on the Parflow project under Michael Burke.
+Jared is currently in the Senior year of his Bachelor's Degree in Computer Science at Boise State University. He has worked on the Parflow project under Michael Burke, and the Lidar Data Processing Project. During the summer he interned at Microsoft under the server performance team, where he built a hypervisor micro-benchmark framework and suite.
 
 * * *
 
