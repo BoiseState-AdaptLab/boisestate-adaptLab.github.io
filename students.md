@@ -132,5 +132,5 @@ Project.
 <img src="/assets/img/Aaron.jpg" height="350" alt="Aaron Orenstein" />
 #### Aaron Orenstein
 
-Aaron recently graduated from Capital High School and Treasure Valley Math and Science Center and will be attending Case Western Reserve University for a BS in Computer Science. He has worked on the Lidar Data Processing project and Ionoseis project and is currently working on the CHiLL-I/E project.
+Aaron recently graduated from Capital High School and Treasure Valley Math and Science Center and will be attending Case Western Reserve University for a BS in Computer Science. He has worked on the Lidar Data Processing project, Ionoseis project, and CHiLL-I/E project.
 
