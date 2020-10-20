@@ -56,7 +56,7 @@ Shivani received her Bachelor's in Computer Science from Rajasthan Technical Uni
 
 #### Ravi Shankar
 
-Ravi completed his Bachelor's in Computer Science with a minor in Applied Mathematics and is currently a Masters student at Boise State University. He has worked on the Lidar Data Processing project and is currently working on the IonoSeis project. During Summer 2020, he interned with Intel for the NSG Data Analytics and Machine Learning group and worked on multiple software engineering projects. 
+Ravi completed his Bachelor's in Computer Science with a minor in Applied Mathematics and is currently a Masters student at Boise State University. He has worked on the Lidar Data Processing project and is currently working on the IonoSeis project. During Summer 2020, he interned with Intel for the NSG Data Analytics and Machine Learning group and worked on multiple software engineering projects.
 
 * * *
 <br>
@@ -77,7 +77,7 @@ Jared is currently in the Senior year of his Bachelor's Degree in Computer Scien
 
 Floriana is a junior majoring in Computer Science and minoring in Applied Mathematics here at Boise State University. She is currently working on the ChiLL-I/E project.
 
-In summer 2020, Floriana interned at NCAR (National Center for Atmospheric Research) where she worked on the refactoring of ASPEN - a program that performs quality control and data analysis of sounding data. 
+In summer 2020, Floriana interned at NCAR (National Center for Atmospheric Research) where she worked on the refactoring of ASPEN - a program that performs quality control and data analysis of sounding data.
 
 * * *
 
@@ -90,7 +90,7 @@ Chinwendum Njoku is an Undergraduate of Boise State University majoring in Compu
 * * *
 
 <img src="/assets/img/Anna.jpeg" width="200" alt="Anna Rift" />
-#### Anna Rift
+#### [Anna Rift](https://riftEmber.com)
 
 Anna (they/she) is a sophomore majoring in Computer Science and Mathematics at Boise State University. They are currently working on the ChiLL-I/E project.
 
