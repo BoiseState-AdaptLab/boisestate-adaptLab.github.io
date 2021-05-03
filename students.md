@@ -63,15 +63,6 @@ Ravi completed his Bachelor's in Computer Science with a minor in Applied Mathem
 
 ## Undergraduates
 
-
-<img src="/assets/img/Jared.jpg" height="350" alt="Jared White" />
-#### Jared White
-
-Jared is currently in the Senior year of his Bachelor's Degree in Computer Science at Boise State University. He has worked on the Parflow project under Michael Burke, and the Lidar Data Processing Project. During the summer he interned at Microsoft under the server performance team, where he built a hypervisor micro-benchmark framework and suite.
-
-* * *
-
-
 <img src="/assets/img/Flo.jpeg" height="350" alt="Floriana Ciaglia" />
 #### Floriana Ciaglia
 
@@ -126,11 +117,4 @@ Project.
 
 <br>
 
-## High School Students
-
-
-<img src="/assets/img/Aaron.jpg" height="350" alt="Aaron Orenstein" />
-#### Aaron Orenstein
-
-Aaron recently graduated from Capital High School and Treasure Valley Math and Science Center and will be attending Case Western Reserve University for a BS in Computer Science. He has worked on the Lidar Data Processing project, Ionoseis project, and CHiLL-I/E project.
 
