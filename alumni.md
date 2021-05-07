@@ -65,3 +65,46 @@ Spencer has completed his Bachelor's Degree in Computer Science in 2019 with a m
 Michael has completed his Bachelor's in Applied Science from Boise State University, and his Master's in Computer Science from Boise State University in 2020. He is currently employed at Cray.
 
 * * *
+
+<img src="/assets/img/Jared.jpg" height="350" alt="Jared White" />
+#### Jared White
+
+Jared is currently in the Senior year of his Bachelor's Degree in Computer Science at Boise State University. He has worked on the Parflow project under Michael Burke, and the Lidar Data Processing Project. During the summer he interned at Microsoft under the server performance team, where he built a hypervisor micro-benchmark framework and suite.
+
+* * *
+
+![Shivani Singh](/assets/img/Shivani.jpg)
+
+#### Shivani Singh
+
+Shivani received her Bachelor's in Computer Science from Rajasthan Technical University and is currently working on her Master's in Computer Science. She is currently working on the Polyhedral Dataflow IR project.
+
+* * *
+
+<img src="/assets/img/Geoffrey.jpeg" height="350" alt="Geoffrey Meier" />
+#### Geoffrey Meier
+
+Geoffrey is an undergraduate student at Boise State University, and will be graduating Fall 2020 with a Bachelor of Science degree in Computer Science and a minor in Applied Mathematics. He is currently working on the CHiLL-I/E project.
+
+
+* * *
+
+<img src="/assets/img/Will.jpeg" height="350" alt="William Lawrence" />
+#### William Lawrence
+
+William, is a current student at Boise State. He has a bachelors degree in Mass Communications, and currently pursuing his Computer Science degree with an emphasis in machine learning. He is working on the hydroframe project.
+
+
+
+* * *
+
+## High School Students
+
+
+<img src="/assets/img/Aaron.jpg" height="350" alt="Aaron Orenstein" />
+#### Aaron Orenstein
+
+Aaron recently graduated from Capital High School and Treasure Valley Math and Science Center and will be attending Case Western Reserve University for a BS in Computer Science. He has worked on the Lidar Data Processing project, Ionoseis project, and CHiLL-I/E project.
+
+
+
