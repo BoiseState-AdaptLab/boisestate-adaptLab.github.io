@@ -59,7 +59,7 @@ Ravi completed his Bachelor's in Computer Science with a minor in Applied Mathem
 <img src="/assets/img/Flo.jpeg" height="350" alt="Floriana Ciaglia" />
 #### Floriana Ciaglia
 
-Floriana is a junior majoring in Computer Science and minoring in Applied Mathematics here at Boise State University. She is currently working on the ChiLL-I/E project.
+Floriana is a senior majoring in Computer Science and minoring in Applied Mathematics here at Boise State University. She is currently working on the Forest Service Data Digitization project.
 
 In summer 2020, Floriana interned at NCAR (National Center for Atmospheric Research) where she worked on the refactoring of ASPEN - a program that performs quality control and data analysis of sounding data.
 
