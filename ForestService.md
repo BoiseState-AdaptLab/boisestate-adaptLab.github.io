@@ -12,5 +12,18 @@
 
 The Forest Service Data project is being developed by a group of undegraduate students in Adapt Lab.
 
+Current students:
+  * Floriana Ciaglia
+  * Sandra Bush
+  * Joshua 
+  
+Past students:
+  * Chinwendum Njoku
+  * Isaac Bard
+
+Advisors:
+  * Catherine Olschanowsky
+  * Kelly Hopping
+
 
 
