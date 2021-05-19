@@ -8,3 +8,9 @@
 ![alt text](https://github.com/BoiseState-AdaptLab/OCR_4_Forest_Service/blob/main/Forest_Service-poster.png "Forest Service Poster")
 
 
+## The Team
+
+The Forest Service Data project is being developed by a group of undegraduate students in Adapt Lab.
+
+
+
