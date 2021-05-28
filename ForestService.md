@@ -15,7 +15,7 @@ The Forest Service Data project is being developed by a group of undegraduate st
 Current students:
   * Floriana Ciaglia
   * Sandra Bush
-  * Joshua 
+  * Joshua Suotelo Vieira
   
 Past students:
   * Chinwendum Njoku
