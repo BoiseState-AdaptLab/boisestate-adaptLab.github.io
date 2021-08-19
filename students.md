@@ -35,28 +35,12 @@ Tobi received his Bachelor's in Computer Engineering from the University of Lago
 
 * * *
 
-![Ahmad Rezaii](/assets/img/Ahmad.png)
-
-#### Ahmad Rezaii
-
-Ahmad received his Bachelor's in Computer Science from Boise State University in 2019 and is pursuing a PhD in the Computing program at Boise State University. He is currently involved with the ParFlow project.
-
-* * *
-
-
-
-![Ravi Shankar](/assets/img/Ravi.png)
-
-#### Ravi Shankar
-
-Ravi completed his Bachelor's in Computer Science with a minor in Applied Mathematics and is currently a Masters student at Boise State University. He has worked on the Lidar Data Processing project and is currently working on the IonoSeis project. During Summer 2020, he interned with Intel for the NSG Data Analytics and Machine Learning group and worked on multiple software engineering projects.
-
-* * *
 <br>
 
 ## Undergraduates
 
 <img src="/assets/img/Flo.jpeg" height="350" alt="Floriana Ciaglia" />
+
 #### Floriana Ciaglia
 
 Floriana is a senior majoring in Computer Science and minoring in Applied Mathematics here at Boise State University. She is currently working on the Forest Service Data Digitization project.
@@ -65,8 +49,8 @@ In summer 2020, Floriana interned at NCAR (National Center for Atmospheric Resea
 
 * * *
 
-
 <img src="/assets/img/Chinwe.jpeg" width="200" alt="Chinwendum Njoku" />
+
 #### Chinwendum Njoku
 
 Chinwendum Njoku is an Undergraduate of Boise State University majoring in Computer Science and minoring in Applied math. She is currently working on updates on the adapt lab website.
@@ -74,14 +58,15 @@ Chinwendum Njoku is an Undergraduate of Boise State University majoring in Compu
 * * *
 
 <img src="/assets/img/Anna.jpeg" width="200" alt="Anna Rift" />
+
 #### [Anna Rift](https://riftEmber.com)
 
 Anna (they/them) is a senior majoring in Computer Science and Mathematics at Boise State University. They are currently working on the ChiLL-I/E project.
 
-
 * * *
 
-<img src="/assets/img/Nicholas.jpeg" height="350" alt="Nicholas Prussen" />
+<img src="/assets/img/Nicholas.jpeg" width="300" alt="Nicholas Prussen" />
+
 #### Nicholas Prussen
 
 Nicholas Prussen is currently a Junior majoring in Computer Science here at Boise State.   He is currently working on the Parflow Project under Ahmad Rezaii. He also worked on the Lidar Data Processing

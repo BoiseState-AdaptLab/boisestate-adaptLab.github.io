@@ -18,43 +18,51 @@ layout: default
 # Alumni
 
 
-![Aza Tulepbergenov](/assets/img/Aza.jpg)
+![Ravi Shankar](/assets/img/Ravi.png)
 
-#### Aza Tulepbergenov
+#### [Ravi Shankar](https://adapt.boisestate.edu/~ravishankar/)
 
-Aza graduated from Boise State with a Bachelor's degree in Computer Science in 2018. He is currently employed at Google.
-
-* * *
-
-![Travis Adsitt](/assets/img/Travis.jpg)
-
-#### Travis Adsitt
-
-Travis graduated from Boise State with a Bachelor's degree in Computer Science in 2019. He is currently employed at Micron.
+Ravi graduated from Boise State with a Master's degree in Computer Science in 2021. He is currently employed at Intel.
 
 * * *
 
-![Mahesh Lakshminarasimhan](/assets/img/Mahesh.png)
+![Ahmad Rezaii](/assets/img/Ahmad.png)
 
-#### Mahesh Lakshminarasimhan
+#### Ahmad Rezaii
 
-Mahesh Lakshminarasimhan received his Bachelor’s in Computer Science from Anna University, Chennai, India, and his Master's in Computer Science at Boise State University. He currently is pursuing his PhD in Computer Science at the University of Utah in Salt Lake City, UT.
-
-* * *
-
-![Eddie C. Davis](/assets/img/Eddie.jpg)
-
-#### Eddie C. Davis
-
-Eddie received his B.S. in Computer Science from Montana State University in 2005,  M.S. in Computer Science from Boise State University in 2016 and PhD in the Computing program at Boise State University in 2019. He is currently working in Seattle.
+Ahmad graduated from Boise State with a Master's degree in Computer Science in 2021. He is currently employed at HPE.
 
 * * *
 
-![Spencer Fleming](/assets/img/Spencer.jpg)
+![Aaron Orenstein](/assets/img/Aaron.jpg)
 
-#### Spencer Fleming
+#### Aaron Orenstein
 
-Spencer has completed his Bachelor's Degree in Computer Science in 2019 with a minor in Applied Mathematics.
+Aaron is an undergraduate student studying Computer Science at Case Western Reserve University. He has worked on the Lidar Data Processing project, IonoSeis project, and CHiLL-I/E project.
+
+* * * 
+
+<img src="/assets/img/Jared.jpg" height="350" alt="Jared White" />
+
+#### Jared White
+
+Jared graduated from Boise State with a Bachelor's degree in Computer Science in 2021. He is currently employed at Microsoft. 
+
+* * *
+
+![Shivani Singh](/assets/img/Shivani.jpg)
+
+#### Shivani Singh
+
+Shivani graduated from Boise State with a Master's degree in Computer Science in 2020.
+
+* * *
+
+![Geoffrey Meier](/assets/img/Geoffrey.jpeg)
+
+#### Geoffrey Meier
+
+Geoffrey graduated from Boise State with a Bachelor's degree in Computer Science in 2020. He is currently employed at Micron.
 
 * * *
 
@@ -66,45 +74,42 @@ Michael has completed his Bachelor's in Applied Science from Boise State Univers
 
 * * *
 
-<img src="/assets/img/Jared.jpg" height="350" alt="Jared White" />
-#### Jared White
+![Spencer Fleming](/assets/img/Spencer.jpg)
 
-Jared is currently in the Senior year of his Bachelor's Degree in Computer Science at Boise State University. He has worked on the Parflow project under Michael Burke, and the Lidar Data Processing Project. During the summer he interned at Microsoft under the server performance team, where he built a hypervisor micro-benchmark framework and suite.
+#### Spencer Fleming
 
-* * *
-
-![Shivani Singh](/assets/img/Shivani.jpg)
-
-#### Shivani Singh
-
-Shivani received her Bachelor's in Computer Science from Rajasthan Technical University and is currently working on her Master's in Computer Science. She is currently working on the Polyhedral Dataflow IR project.
+Spencer graduated from Boise State in 2019 with a Bachelor's degree in Computer Science and a minor in Applied Math in 2019.
 
 * * *
 
-<img src="/assets/img/Geoffrey.jpeg" height="350" alt="Geoffrey Meier" />
-#### Geoffrey Meier
+![Eddie C. Davis](/assets/img/Eddie.jpg)
 
-Geoffrey is an undergraduate student at Boise State University, and will be graduating Fall 2020 with a Bachelor of Science degree in Computer Science and a minor in Applied Mathematics. He is currently working on the CHiLL-I/E project.
+#### Eddie C. Davis
 
-
-* * *
-
-<img src="/assets/img/Will.jpeg" height="350" alt="William Lawrence" />
-#### William Lawrence
-
-William, is a current student at Boise State. He has a bachelors degree in Mass Communications, and currently pursuing his Computer Science degree with an emphasis in machine learning. He is working on the hydroframe project.
-
-
+Eddie received his B.S. in Computer Science from Montana State University in 2005,  M.S. in Computer Science from Boise State University in 2016 and PhD in the Computing program at Boise State University in 2019. He is currently employed at Vulcan Inc.
 
 * * *
 
-## High School Students
+![Mahesh Lakshminarasimhan](/assets/img/Mahesh.png)
 
+#### Mahesh Lakshminarasimhan
 
-<img src="/assets/img/Aaron.jpg" height="350" alt="Aaron Orenstein" />
-#### Aaron Orenstein
+Mahesh Lakshminarasimhan received his Bachelor’s in Computer Science from Anna University, Chennai, India, and his Master's in Computer Science at Boise State University. He currently is pursuing his PhD in Computer Science at the University of Utah in Salt Lake City, UT.
 
-Aaron recently graduated from Capital High School and Treasure Valley Math and Science Center and will be attending Case Western Reserve University for a BS in Computer Science. He has worked on the Lidar Data Processing project, Ionoseis project, and CHiLL-I/E project.
+* * *
 
+![Travis Adsitt](/assets/img/Travis.jpg)
+
+#### Travis Adsitt
+
+Travis graduated from Boise State with a Bachelor's degree in Computer Science in 2019. He is currently employed at Micron.
+
+* * *
+
+![Aza Tulepbergenov](/assets/img/Aza.jpg)
+
+#### Aza Tulepbergenov
+
+Aza graduated from Boise State with a Bachelor's degree in Computer Science in 2018. He is currently employed at Google.
 
 
