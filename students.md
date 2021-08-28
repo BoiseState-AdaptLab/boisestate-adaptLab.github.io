@@ -69,8 +69,7 @@ Anna (they/them) is a senior majoring in Computer Science and Mathematics at Boi
 
 #### Nicholas Prussen
 
-Nicholas Prussen is currently a Junior majoring in Computer Science here at Boise State.   He is currently working on the Parflow Project under Ahmad Rezaii. He also worked on the Lidar Data Processing
-Project.
+Nicholas Prussen is a Senior working on his Bachelor's of Science in Computer Science. He is currently working on the Hydroframe project.
 
 * * *
 
