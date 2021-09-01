@@ -79,6 +79,12 @@ Nicholas Prussen is a Senior working on his Bachelor's of Science in Computer Sc
 
 Sharon Yang is a senior majoring in Computer Science at Boise State. She is currently working on the ChiLL-I/E project.
 
+* * *
+
+<img src="/assets/img/MacdonaldLowe.jpg" alt="MacDonald Lowe" />
+
+#### MacDonald Lowe
+
+MacDonald Lowe is a sophomore majoring in Computer Science at Boise State. He is currently working on the ChiLL-I/E project.
+
 <br>
-
-
