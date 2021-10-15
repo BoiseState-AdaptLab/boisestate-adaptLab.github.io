@@ -33,6 +33,10 @@ image_sliders:
 
 Tobi received his Bachelor's in Computer Engineering from the University of Lagos, Akoka, Nigeria and is currently pursuing his PhD in Computer Science at Boise State University. He is currently working on the Chill I/E project.
 
+#### Kalyan Bhetwal
+
+Kalyan received his Bachelor's from the Tibhiuvan University, Nepal and is currectly pursing his Master's in Computer Science at Boise State University. He is currently working on the Hydroframe and Compiler Project.
+
 * * *
 
 <br>
