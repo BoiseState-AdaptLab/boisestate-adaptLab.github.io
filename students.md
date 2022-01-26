@@ -35,7 +35,7 @@ Tobi received his Bachelor's in Computer Engineering from the University of Lago
 
 #### Kalyan Bhetwal
 
-Kalyan received his Bachelor's from the Tibhiuvan University, Nepal and is currectly pursing his Master's in Computer Science at Boise State University. He is currently working on the Hydroframe and Compiler Project.
+Kalyan received his Bachelor's from the Tibhiuvan University, Nepal and is currectly pursuing his Master's in Computer Science at Boise State University. He is currently working on the Hydroframe and Compiler Project.
 
 * * *
 
