@@ -33,9 +33,19 @@ image_sliders:
 
 Tobi received his Bachelor's in Computer Engineering from the University of Lagos, Akoka, Nigeria and is currently pursuing his PhD in Computer Science at Boise State University. He is currently working on the Chill I/E project.
 
+* * *
+
 #### Kalyan Bhetwal
 
 Kalyan received his Bachelor's from the Tibhiuvan University, Nepal and is currectly pursuing his Master's in Computer Science at Boise State University. He is currently working on the Hydroframe and Compiler Project.
+
+* * *
+
+![Aaron_and_Taco](/assets/img/Aaron_and_Taco.jpg)
+
+#### Aaron St. George
+
+Aaron received his Bachelor's from the University of Montana, USA and is currently pursuing his Master's in Computer Science at Boise State University. He is currently working on creating a SPF (Sparse Polyhedral Framework) dialect for the [MLIR ecosystem](https://mlir.llvm.org). His dog Taco has yet to complete his Bachelor’s.
 
 * * *
 
