@@ -45,7 +45,7 @@ Kalyan received his Bachelor's from the Tibhiuvan University, Nepal and is curre
 
 #### Aaron St. George
 
-Aaron received his Bachelor's from the University of Montana, USA and is currently pursuing his Master's in Computer Science at Boise State University. He is currently working on creating a SPF (Sparse Polyhedral Framework) dialect for the [MLIR ecosystem](https://mlir.llvm.org). His dog Taco has yet to complete his Bachelor’s.
+Aaron received his Bachelor's from the University of Montana, USA and is currently pursuing his Master's in Computer Science at Boise State University. He is currently working on creating a SPF (Sparse Polyhedral Framework) dialect for the [MLIR ecosystem](https://mlir.llvm.org). Aaron's dog Taco (in the party hat) has yet to complete his Bachelor’s.
 
 * * *
 
